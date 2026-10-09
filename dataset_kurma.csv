@@ -1,0 +1,1501 @@
+ukuran_cm,berat_g,kekerasan_N,kadar_gula_brix,kadar_air_pct,varietas,tingkat_warna,grade_cacat,stage
+3.46,10.06,8.21,66.71,14.12,Deglet Noor,Hitam,Ringan,Tamr
+4.68,16.5,12.21,54.79,15.34,Zahidi,Hitam,Berat,Tamr
+4.17,9.22,82.3,21.72,67.59,Medjool,Cokelat Muda,Tidak Ada,Khalal
+4.41,10.58,65.04,21.08,71.27,Medjool,Kuning,Sedang,Khalal
+2.58,7.9,83.04,22.18,67.52,Ajwa,Kuning,Ringan,Khalal
+2.53,6.37,10.22,48.23,35.54,Barhi,Cokelat Muda,Ringan,Rutab
+2.96,9.51,10.35,56.53,25.67,Deglet Noor,Cokelat Tua,Ringan,Tamr
+2.18,7.3,11.72,33.43,55.39,Deglet Noor,Cokelat Muda,Sedang,Rutab
+2.34,7.77,4.14,59.05,22.53,Barhi,Cokelat Tua,Ringan,Tamr
+3.61,12.42,54.95,17.37,71.39,Ajwa,Cokelat Muda,Tidak Ada,Khalal
+3.82,8.38,46.16,35.16,44.75,Zahidi,Cokelat Muda,Ringan,Rutab
+3.18,9.48,4.77,75.91,14.63,Ajwa,Cokelat Tua,Ringan,Tamr
+4.02,12.47,31.42,32.25,33.68,Barhi,Cokelat Muda,Ringan,Rutab
+2.91,10.46,9.33,64.57,24.97,Deglet Noor,Hitam,Ringan,Tamr
+4.33,15.43,83.91,19.34,71.93,Zahidi,Kuning,Tidak Ada,Khalal
+1.76,5.26,9.98,60.35,27.74,Ajwa,Cokelat Tua,Sedang,Tamr
+4.54,9.72,6.93,68.96,26.21,Zahidi,Hitam,Ringan,Tamr
+3.66,10.51,23.46,49.47,32.74,Barhi,Cokelat Muda,Ringan,Rutab
+3.28,6.73,64.76,21.74,68.08,Zahidi,Kuning,Ringan,Khalal
+2.78,6.76,40.83,17.69,67.89,Deglet Noor,Cokelat Muda,,Khalal
+2.34,7.35,11.71,65.1,10.59,Ajwa,Cokelat Tua,Ringan,Tamr
+2.35,8.34,3.79,60.87,16.31,Deglet Noor,Hitam,Ringan,Tamr
+2.82,7.29,9.55,60.05,25.06,Ajwa,Cokelat Tua,Ringan,Tamr
+4.07,10.5,12.18,60.16,24.36,Ajwa,Cokelat Tua,Ringan,Tamr
+2.19,5.67,10.58,68.67,20.15,Deglet Noor,Cokelat Tua,Tidak Ada,Tamr
+2.5,5.91,72.66,19.19,79.83,Zahidi,Kuning,Ringan,Khalal
+2.74,9.4,16.73,63.31,27.61,Ajwa,Hitam,Sedang,Tamr
+5.74,12.38,8.73,58.18,13.1,Medjool,Hitam,,Tamr
+3.7,9.01,2.04,76.4,17.11,Medjool,Cokelat Tua,Sedang,Tamr
+2.27,6.22,2.35,67.07,15.91,Ajwa,Cokelat Tua,Tidak Ada,Tamr
+2.89,6.56,5.19,75.71,16.77,Ajwa,Cokelat Tua,Ringan,Tamr
+2.77,8.75,44.63,52.35,37.44,Ajwa,Hitam,Ringan,Rutab
+3.21,11.24,16.21,57.46,15.06,Medjool,Hitam,Tidak Ada,Tamr
+5.09,17.37,3.02,75.26,21.09,Medjool,Cokelat Tua,Sedang,Tamr
+3.5,10.08,85.41,19.55,76.94,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.39,7.47,88.61,19.19,72.54,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.97,10.96,66.67,20.78,63.5,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.94,7.45,75.37,23.78,71.16,Ajwa,Kuning,Sedang,Khalal
+4.94,17.06,11.93,74.22,14.9,Medjool,Hitam,Sedang,Tamr
+1.93,6.11,61.53,18.51,72.32,Ajwa,Kuning,Ringan,Khalal
+5.22,17.42,7.99,72.44,24.47,Medjool,Cokelat Tua,Ringan,Tamr
+2.5,5.89,61.65,16.53,74.88,Zahidi,Kuning,Ringan,Khalal
+2.15,6.44,9.68,79.69,21.76,Ajwa,Hitam,Ringan,Tamr
+2.63,5.34,42.62,41.01,38.8,Barhi,Cokelat Muda,Ringan,Rutab
+2.15,5.01,12.83,65.36,13.64,Ajwa,Cokelat Tua,Ringan,Tamr
+3.69,7.65,87.95,18.11,63.39,Ajwa,Kuning,Tidak Ada,Khalal
+3.27,7.49,82.05,18.67,72.69,Deglet Noor,Kuning,Ringan,Khalal
+4.22,10.3,46.19,15.45,69.57,Deglet Noor,Cokelat Muda,Tidak Ada,Khalal
+4.4,13.32,25.93,31.28,40.27,Medjool,Cokelat Muda,Tidak Ada,Rutab
+4.76,12.57,13.01,45.62,46.21,Zahidi,Cokelat Tua,Ringan,Rutab
+2.42,6.62,41.81,52.54,42.01,Deglet Noor,Cokelat Tua,Ringan,Rutab
+2.53,8.45,34.31,33.18,39.29,Zahidi,Cokelat Muda,Ringan,Rutab
+4.82,13.28,5.73,61.79,16.34,Medjool,Cokelat Tua,Sedang,Tamr
+5.93,20.1,8.5,71.58,17.9,Medjool,Cokelat Tua,Ringan,Tamr
+3.28,9.06,42.72,38.3,34.9,Barhi,Cokelat Tua,Ringan,Rutab
+2.35,7.22,19.68,38.45,56.57,Ajwa,Cokelat Muda,Ringan,Rutab
+3.18,6.82,70.28,19.8,64.83,Barhi,Kuning,Ringan,Khalal
+3.96,9.67,59.01,18.85,75.16,Medjool,Kuning,Tidak Ada,Khalal
+4.79,11.04,69.47,18.47,65.57,Deglet Noor,Cokelat Muda,Tidak Ada,Khalal
+2.07,5.29,37.39,34.94,57.03,Barhi,Cokelat Muda,Ringan,Rutab
+1.75,3.84,19.64,43.91,50.51,Ajwa,Cokelat Muda,Sedang,Rutab
+3.32,8.85,12.5,48.98,39.61,Ajwa,Cokelat Muda,Ringan,Rutab
+2.98,7.66,81.98,20.37,66.24,Medjool,Cokelat Muda,Tidak Ada,Khalal
+2.96,5.98,77.21,23.78,64.68,Deglet Noor,Kuning,Berat,Khalal
+2.41,6.74,17.03,46.55,42.84,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+3.46,8.38,37.7,13.83,79.99,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.99,13.37,60.51,21.14,75.92,Ajwa,Kuning,Ringan,Khalal
+4.82,13.15,6.9,59.28,26.07,Zahidi,Cokelat Tua,Tidak Ada,Tamr
+2.83,9.54,13.53,65.48,26.89,Barhi,Hitam,Sedang,Tamr
+2.71,8.16,54.7,19.38,70.5,Ajwa,Kuning,Tidak Ada,Khalal
+2.91,5.98,77.03,15.82,65.11,Medjool,Kuning,Ringan,Khalal
+4.37,14.76,38.41,42.98,34.37,Medjool,Cokelat Muda,Tidak Ada,Rutab
+2.03,4.34,59.04,40.98,51.13,Ajwa,Cokelat Tua,Sedang,Rutab
+4.19,11.9,69.89,19.55,74.37,Zahidi,Kuning,Ringan,Khalal
+2.9,9.57,26.22,37.33,43.76,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+4.18,13.73,21.34,69.4,26.64,Medjool,Cokelat Tua,Ringan,Tamr
+3.87,10.23,17.16,45.22,34.98,Medjool,Cokelat Tua,Ringan,Rutab
+2.3,6.23,44.52,30.76,45.63,Ajwa,Cokelat Muda,Berat,Rutab
+1.92,5.41,71.5,18.25,70.14,Ajwa,Kuning,Tidak Ada,Khalal
+2.99,8.05,41.87,25.46,44.88,Barhi,Cokelat Muda,Ringan,Rutab
+4.03,14.23,,67.72,24.02,Medjool,Cokelat Tua,Ringan,Tamr
+5.49,13.38,60.15,15.82,73.13,Medjool,Kuning,Tidak Ada,Khalal
+2.89,9.74,78.64,20.07,79.05,Zahidi,Kuning,Tidak Ada,Khalal
+1.77,5.05,18.94,54.07,53.72,Ajwa,Cokelat Tua,Tidak Ada,Rutab
+2.08,5.67,41.94,36.81,45.49,Ajwa,Cokelat Muda,Ringan,Rutab
+3.66,10.36,74.47,14.86,68.03,Ajwa,Kuning,Tidak Ada,Khalal
+3.81,10.09,37.72,53.28,47.58,Deglet Noor,Cokelat Muda,Ringan,Rutab
+4.02,12.49,46.98,30.86,41.04,Barhi,Cokelat Muda,Tidak Ada,Rutab
+3.69,7.55,21.7,45.51,47.98,Medjool,Cokelat Tua,Sedang,Rutab
+4.08,9.29,28.1,48.42,56.33,Deglet Noor,Cokelat Muda,Ringan,Rutab
+3.47,7.94,8.88,62.94,24.3,Barhi,Cokelat Tua,Sedang,Tamr
+2.1,5.1,59.8,17.11,67.17,Ajwa,Cokelat Muda,Tidak Ada,Khalal
+2.73,6.8,57.04,15.37,78.89,Medjool,Kuning,Tidak Ada,Khalal
+4.41,13.8,20.34,73.5,22.09,Zahidi,Cokelat Tua,Tidak Ada,Tamr
+5.03,10.43,13.37,54.99,17.46,Zahidi,Cokelat Tua,Ringan,Tamr
+2.54,5.5,78.69,15.99,79.96,Deglet Noor,Kuning,Sedang,Khalal
+3.36,7.0,55.67,18.3,65.32,Deglet Noor,Kuning,Ringan,Khalal
+3.02,8.39,61.76,17.63,76.45,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.86,10.03,7.63,68.17,20.48,Barhi,Hitam,Sedang,Tamr
+3.57,8.51,38.21,17.12,63.62,Ajwa,Kuning,Tidak Ada,Khalal
+3.77,11.58,40.91,41.02,52.73,Deglet Noor,Cokelat Muda,Ringan,Rutab
+2.3,6.06,21.91,30.86,54.07,Zahidi,Cokelat Muda,Ringan,Rutab
+2.19,4.53,11.71,63.49,12.27,Ajwa,Cokelat Tua,Sedang,Tamr
+2.59,5.98,21.88,74.61,20.43,Zahidi,Cokelat Tua,Ringan,Tamr
+2.84,5.93,45.39,15.45,77.06,Ajwa,Kuning,Tidak Ada,Khalal
+3.31,11.13,72.97,23.73,69.26,Deglet Noor,Kuning,Ringan,Khalal
+3.66,9.95,79.12,20.78,71.72,Ajwa,Kuning,Tidak Ada,Khalal
+3.4,11.98,8.46,60.03,16.85,Deglet Noor,Hitam,Tidak Ada,Tamr
+2.61,7.41,81.26,21.22,63.54,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.07,9.19,34.73,51.36,39.91,Medjool,Cokelat Muda,Tidak Ada,Rutab
+3.47,12.13,83.37,15.6,76.49,Deglet Noor,Kuning,Sedang,Khalal
+5.13,13.48,6.74,57.65,22.47,Zahidi,Hitam,Sedang,Tamr
+3.25,8.0,25.91,45.04,41.91,Barhi,Cokelat Muda,,Rutab
+3.56,12.67,,20.95,66.12,Medjool,Kuning,Ringan,Khalal
+3.22,9.14,56.68,22.54,65.32,Zahidi,Kuning,Tidak Ada,Khalal
+3.36,9.18,63.03,15.81,72.97,Barhi,Kuning,Sedang,Khalal
+3.03,8.38,29.58,41.15,49.93,Deglet Noor,Cokelat Muda,Ringan,Rutab
+2.23,7.13,73.2,16.31,68.19,Ajwa,Kuning,Ringan,Khalal
+2.11,4.73,89.49,14.51,79.13,Deglet Noor,Cokelat Muda,Tidak Ada,Khalal
+3.7,12.57,2.72,77.58,17.6,Zahidi,Hitam,Berat,Tamr
+4.29,11.59,39.69,28.79,36.38,Barhi,Cokelat Muda,Ringan,Rutab
+4.28,13.88,8.07,74.03,18.98,Barhi,Hitam,Ringan,Tamr
+3.57,10.41,8.82,56.87,21.28,Barhi,Cokelat Tua,Sedang,Tamr
+3.06,7.64,59.67,22.45,74.18,Ajwa,Kuning,Ringan,Khalal
+5.44,14.52,82.03,20.93,65.41,Medjool,Kuning,Ringan,Khalal
+1.7,4.16,6.03,60.42,26.43,Ajwa,Cokelat Tua,Sedang,Tamr
+1.88,4.81,13.96,54.3,16.53,Ajwa,Cokelat Tua,Ringan,Tamr
+2.95,9.74,47.32,32.58,34.75,Zahidi,Cokelat Muda,Ringan,Rutab
+4.82,12.7,11.1,61.56,10.92,Zahidi,Cokelat Tua,Ringan,Tamr
+2.01,4.76,36.27,16.04,65.1,Ajwa,Kuning,Tidak Ada,Khalal
+4.93,14.33,4.86,67.87,13.49,Zahidi,Hitam,Tidak Ada,Tamr
+2.93,9.81,84.16,16.47,73.22,Zahidi,Kuning,Tidak Ada,Khalal
+4.03,12.08,13.0,71.1,24.78,Medjool,Hitam,Ringan,Tamr
+3.64,13.05,3.39,58.46,22.26,Medjool,Hitam,Ringan,Tamr
+2.58,8.14,45.39,31.98,45.45,Barhi,Cokelat Tua,Tidak Ada,Rutab
+4.07,9.95,78.61,21.82,69.28,Deglet Noor,Cokelat Muda,Ringan,Khalal
+2.6,8.85,59.41,20.0,73.49,Barhi,Kuning,Ringan,Khalal
+3.13,10.43,59.48,16.79,66.76,Barhi,Kuning,Tidak Ada,Khalal
+4.11,11.63,43.48,31.03,33.64,Barhi,Kuning,Ringan,Rutab
+2.61,6.31,67.78,21.37,73.34,Ajwa,Kuning,Tidak Ada,Khalal
+3.55,10.33,19.33,60.24,16.18,Ajwa,Cokelat Tua,Tidak Ada,Tamr
+2.94,6.83,,15.98,69.65,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.2,5.12,3.08,74.16,20.39,Barhi,Cokelat Tua,Ringan,Tamr
+2.63,6.96,60.38,20.07,64.69,Deglet Noor,Kuning,Ringan,Khalal
+3.34,6.98,20.5,31.89,45.11,Ajwa,Cokelat Muda,Sedang,Rutab
+3.72,9.34,4.35,75.15,14.66,Deglet Noor,Cokelat Tua,Berat,Tamr
+4.11,13.54,41.61,43.36,47.71,Barhi,Cokelat Muda,Ringan,Rutab
+4.78,11.85,3.8,65.98,17.65,Zahidi,Cokelat Tua,Sedang,Tamr
+3.35,9.66,60.22,17.49,78.39,Zahidi,Kuning,Tidak Ada,Khalal
+3.14,10.26,,46.94,38.78,Zahidi,Cokelat Muda,Ringan,Rutab
+2.04,4.41,6.64,81.88,17.07,Deglet Noor,Cokelat Tua,Sedang,Tamr
+2.32,6.83,10.59,75.45,20.95,Barhi,Cokelat Tua,Sedang,Tamr
+2.8,5.75,37.58,42.21,48.56,Ajwa,Cokelat Muda,Ringan,Rutab
+3.57,11.46,10.05,80.03,21.21,Barhi,Hitam,Tidak Ada,Tamr
+5.09,18.17,38.28,32.89,51.33,Zahidi,Cokelat Muda,Ringan,Rutab
+3.18,11.18,,57.37,12.22,Medjool,Cokelat Muda,Sedang,Tamr
+2.04,6.0,4.75,64.74,26.55,Ajwa,Cokelat Tua,Ringan,Tamr
+3.15,8.67,89.21,16.67,74.17,Ajwa,Kuning,Tidak Ada,Khalal
+3.82,8.74,82.37,21.4,69.56,Deglet Noor,Kuning,Ringan,Khalal
+3.38,7.87,61.55,15.93,77.81,Ajwa,Kuning,Tidak Ada,Khalal
+3.5,8.82,69.81,24.5,65.76,Barhi,Kuning,Ringan,Khalal
+2.05,5.54,48.21,22.11,73.68,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.79,8.98,8.55,77.55,15.38,Barhi,Hitam,Sedang,Tamr
+2.92,9.47,4.82,78.09,25.82,Zahidi,Cokelat Tua,Berat,Tamr
+1.98,4.74,73.22,16.97,73.73,Ajwa,Kuning,,Khalal
+3.03,9.9,77.03,20.86,74.95,Barhi,Cokelat Tua,Sedang,Khalal
+3.39,10.35,20.67,60.56,12.28,Deglet Noor,Hitam,Berat,Tamr
+3.85,9.82,13.63,64.68,13.47,Barhi,Cokelat Tua,Tidak Ada,Tamr
+2.76,7.3,29.73,45.32,42.71,Zahidi,Kuning,Ringan,Rutab
+2.94,10.21,39.06,19.64,65.95,Ajwa,Cokelat Muda,Ringan,Khalal
+1.99,5.11,75.61,22.58,69.28,Barhi,Kuning,Tidak Ada,Khalal
+2.63,6.18,16.47,67.06,19.69,Deglet Noor,Cokelat Tua,Sedang,Tamr
+3.85,11.89,44.44,32.9,56.22,Medjool,Cokelat Muda,Ringan,Rutab
+2.81,9.49,37.57,44.2,45.16,Barhi,Cokelat Tua,Ringan,Rutab
+1.95,4.32,78.42,18.24,74.92,Ajwa,Cokelat Tua,Tidak Ada,Khalal
+2.47,5.56,48.05,15.58,64.25,Ajwa,Kuning,Tidak Ada,Khalal
+3.15,8.6,8.37,62.03,20.5,Barhi,Cokelat Tua,Ringan,Tamr
+3.65,12.76,18.77,51.07,56.47,Barhi,Cokelat Muda,Ringan,Rutab
+1.95,5.16,89.35,19.15,66.64,Ajwa,Kuning,Tidak Ada,Khalal
+4.93,17.57,21.56,62.1,22.41,Medjool,Hitam,Tidak Ada,Tamr
+4.45,14.9,61.46,14.91,63.71,Barhi,Kuning,,Khalal
+3.5,10.75,43.61,48.8,54.19,Barhi,Cokelat Muda,Sedang,Rutab
+3.23,6.78,85.57,18.35,73.28,Ajwa,Kuning,Tidak Ada,Khalal
+2.7,9.28,49.58,14.9,67.75,Ajwa,Cokelat Muda,Tidak Ada,Khalal
+3.9,7.96,,59.45,17.72,Medjool,Cokelat Tua,,Tamr
+2.48,7.49,30.8,34.42,32.63,Ajwa,Cokelat Muda,Ringan,Rutab
+4.36,12.45,36.4,40.23,36.93,Medjool,Cokelat Muda,Ringan,Rutab
+3.65,11.52,87.29,16.46,71.22,Deglet Noor,Kuning,Ringan,Khalal
+1.87,6.69,11.89,62.19,13.56,Ajwa,Hitam,Ringan,Tamr
+4.33,14.63,13.0,69.27,24.99,Barhi,Cokelat Tua,Berat,Tamr
+4.05,8.94,40.52,51.74,41.59,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+2.81,5.7,57.28,48.34,56.57,Ajwa,Cokelat Muda,Sedang,Rutab
+2.45,4.98,21.92,70.92,23.56,Ajwa,Hitam,Tidak Ada,Tamr
+3.26,6.88,7.78,72.48,14.28,Zahidi,Cokelat Tua,,Tamr
+2.44,7.05,,41.44,49.19,Deglet Noor,Cokelat Muda,Ringan,Rutab
+3.55,8.89,39.55,22.6,71.87,Ajwa,Cokelat Muda,Tidak Ada,Khalal
+2.3,8.07,47.61,48.34,51.15,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+3.9,10.24,80.53,21.64,66.26,Deglet Noor,Kuning,Ringan,Khalal
+3.03,10.89,23.53,34.8,32.21,Barhi,Cokelat Muda,Ringan,Rutab
+3.26,8.11,72.23,20.6,64.99,Ajwa,Kuning,Sedang,Khalal
+4.83,14.63,30.66,26.94,47.87,Medjool,Hitam,Ringan,Rutab
+2.91,6.85,32.01,45.58,52.52,Barhi,Cokelat Muda,Ringan,Rutab
+3.44,12.1,60.31,21.56,69.09,Barhi,Kuning,Ringan,Khalal
+2.85,9.17,87.57,15.71,77.75,Zahidi,Kuning,Tidak Ada,Khalal
+2.23,5.54,3.91,75.84,23.71,Ajwa,Cokelat Tua,Sedang,Tamr
+3.74,9.32,35.74,31.32,36.27,Medjool,Cokelat Muda,Ringan,Rutab
+4.86,11.87,63.64,17.92,76.37,Zahidi,Cokelat Muda,Ringan,Khalal
+3.11,9.73,25.33,53.01,51.93,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+3.08,10.87,72.56,16.78,73.26,Barhi,Kuning,Tidak Ada,Khalal
+1.69,4.62,24.21,28.74,37.79,Ajwa,Cokelat Muda,Ringan,Rutab
+6.07,13.64,74.28,20.07,62.33,Medjool,Cokelat Muda,Tidak Ada,Khalal
+4.71,10.49,4.02,57.15,13.23,Zahidi,Cokelat Tua,Sedang,Tamr
+2.55,9.02,20.54,48.32,37.69,Barhi,Cokelat Muda,Ringan,Rutab
+4.13,10.11,10.78,61.64,14.72,Medjool,Cokelat Tua,Ringan,Tamr
+2.28,6.07,79.83,15.85,73.42,Ajwa,Kuning,Tidak Ada,Khalal
+3.7,11.11,87.36,17.65,68.66,Ajwa,Kuning,Tidak Ada,Khalal
+2.2,4.57,4.35,72.24,13.05,Deglet Noor,Hitam,Ringan,Tamr
+3.48,8.13,79.97,18.82,64.93,Barhi,Cokelat Muda,Ringan,Khalal
+2.94,10.14,12.9,69.72,27.94,Medjool,Cokelat Tua,Ringan,Tamr
+3.62,12.05,72.7,21.64,79.99,Zahidi,Kuning,Tidak Ada,Khalal
+4.56,9.66,9.24,79.86,11.22,Barhi,Hitam,Ringan,Tamr
+3.68,11.07,31.64,50.38,39.72,Zahidi,Cokelat Muda,,Rutab
+3.62,9.84,22.04,40.94,53.65,Barhi,Cokelat Muda,Sedang,Rutab
+3.03,6.27,23.57,27.56,37.24,Barhi,Cokelat Muda,Ringan,Rutab
+3.29,6.64,69.64,20.25,74.2,Zahidi,Kuning,Ringan,Khalal
+3.55,10.69,52.95,19.25,72.9,Barhi,Kuning,,Khalal
+2.76,6.05,78.48,21.91,75.23,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.67,7.89,66.03,20.74,71.88,Zahidi,Kuning,Tidak Ada,Khalal
+3.43,6.9,4.26,58.53,18.43,Deglet Noor,Hitam,Ringan,Tamr
+2.51,5.03,4.37,72.95,16.34,Ajwa,Cokelat Tua,Ringan,Tamr
+1.89,4.8,7.24,58.96,14.91,Ajwa,Cokelat Tua,Berat,Tamr
+4.03,10.31,82.18,23.22,74.23,Deglet Noor,Kuning,Ringan,Khalal
+3.58,12.39,32.81,38.04,48.38,Zahidi,Cokelat Muda,Ringan,Rutab
+1.89,4.96,16.1,63.16,18.79,Ajwa,Hitam,Ringan,Tamr
+3.87,8.99,12.37,79.86,12.84,Deglet Noor,Hitam,Ringan,Tamr
+2.53,8.29,5.46,80.0,16.51,Barhi,Hitam,Ringan,Tamr
+3.16,10.72,5.47,61.03,18.56,Ajwa,Cokelat Tua,Sedang,Tamr
+3.06,6.16,12.34,54.2,17.23,Ajwa,Hitam,Sedang,Tamr
+3.06,9.4,13.75,61.21,21.26,Barhi,Cokelat Tua,Ringan,Tamr
+3.28,6.82,20.14,69.2,13.57,Zahidi,Cokelat Tua,Ringan,Tamr
+3.78,13.33,23.14,37.9,57.62,Medjool,Cokelat Tua,Tidak Ada,Rutab
+2.07,7.39,7.19,78.71,12.48,Barhi,Hitam,Berat,Tamr
+4.63,14.03,33.16,39.26,51.39,Medjool,Cokelat Muda,Ringan,Rutab
+3.7,11.68,80.34,22.61,74.87,Ajwa,Kuning,Tidak Ada,Khalal
+3.05,8.56,39.21,37.45,44.61,Ajwa,Cokelat Tua,Tidak Ada,Rutab
+3.32,10.63,33.59,31.23,48.56,Barhi,Cokelat Tua,Tidak Ada,Rutab
+3.87,10.72,10.9,69.92,26.49,Medjool,Hitam,Ringan,Tamr
+5.6,15.25,3.79,76.9,23.88,Medjool,Cokelat Tua,Berat,Tamr
+3.4,8.13,,67.11,25.88,Medjool,Hitam,Ringan,Tamr
+3.82,9.7,54.13,31.76,54.79,Zahidi,Cokelat Muda,Ringan,Rutab
+2.81,6.52,10.79,58.38,12.61,Deglet Noor,Hitam,Tidak Ada,Tamr
+3.27,11.18,80.5,21.39,72.75,Zahidi,Cokelat Muda,Tidak Ada,Khalal
+4.9,11.19,5.04,78.59,20.25,Zahidi,Hitam,Sedang,Tamr
+4.42,11.61,24.44,42.96,56.28,Barhi,Cokelat Muda,Sedang,Rutab
+2.89,10.3,2.6,72.15,12.45,Ajwa,Cokelat Tua,Berat,Tamr
+5.47,16.21,46.75,31.16,44.32,Medjool,Kuning,Tidak Ada,Rutab
+4.07,9.32,88.34,18.07,63.12,Deglet Noor,Kuning,Tidak Ada,Khalal
+4.73,16.66,23.87,39.18,50.27,Medjool,Cokelat Muda,Tidak Ada,Rutab
+2.31,6.01,38.27,54.44,32.78,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+3.75,7.79,8.53,74.73,11.4,Ajwa,Cokelat Tua,Ringan,Tamr
+3.85,10.84,4.11,77.01,25.32,Zahidi,Hitam,Tidak Ada,Tamr
+2.61,6.15,77.2,23.1,69.61,Zahidi,Kuning,Ringan,Khalal
+3.39,10.31,20.75,40.48,51.09,Barhi,Cokelat Tua,Ringan,Rutab
+4.37,11.26,17.45,30.33,47.32,Zahidi,Cokelat Tua,Ringan,Rutab
+3.2,6.71,10.1,71.03,23.27,Deglet Noor,Hitam,Ringan,Tamr
+3.9,10.28,12.73,70.78,27.22,Medjool,Cokelat Tua,Ringan,Tamr
+3.18,7.72,30.56,45.83,56.46,Ajwa,Kuning,Ringan,Rutab
+4.03,11.83,84.0,17.32,62.61,Deglet Noor,Kuning,Ringan,Khalal
+3.28,10.36,,75.4,15.35,Ajwa,Cokelat Tua,Ringan,Tamr
+2.13,6.73,44.97,42.78,49.45,Ajwa,Cokelat Muda,Ringan,Rutab
+3.96,11.13,44.61,19.88,77.8,Medjool,Cokelat Muda,Tidak Ada,Khalal
+2.61,5.8,82.22,15.97,64.96,Zahidi,Kuning,Tidak Ada,Khalal
+2.31,7.31,87.73,23.91,76.8,Ajwa,Kuning,Tidak Ada,Khalal
+4.75,10.07,13.53,55.38,17.81,Zahidi,Cokelat Tua,Sedang,Tamr
+3.82,12.22,24.07,27.85,47.77,Zahidi,Cokelat Tua,Sedang,Rutab
+4.31,9.61,9.47,77.87,17.05,Zahidi,Hitam,Ringan,Tamr
+5.05,12.29,8.51,75.29,15.48,Zahidi,Cokelat Tua,Ringan,Tamr
+4.61,13.98,21.43,70.05,24.53,Medjool,Cokelat Tua,Sedang,Tamr
+2.07,6.47,77.18,24.64,76.69,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.27,6.95,5.93,78.95,10.31,Barhi,Hitam,Sedang,Tamr
+4.95,15.32,2.41,60.62,20.43,Zahidi,Cokelat Tua,Sedang,Tamr
+4.82,9.99,13.18,81.05,19.67,Medjool,Cokelat Tua,Sedang,Tamr
+2.13,4.37,6.57,66.96,22.04,Ajwa,Cokelat Tua,,Tamr
+5.09,13.32,39.67,47.61,34.95,Medjool,Cokelat Muda,Tidak Ada,Rutab
+3.98,11.71,59.07,23.43,65.73,Medjool,Kuning,Ringan,Khalal
+2.39,7.59,20.53,42.19,35.3,Ajwa,Cokelat Tua,Sedang,Rutab
+4.32,9.44,88.32,22.06,72.85,Medjool,Cokelat Tua,Tidak Ada,Khalal
+3.43,11.78,5.46,80.1,24.57,Zahidi,Cokelat Tua,Tidak Ada,Tamr
+3.37,6.95,78.81,15.48,72.22,Ajwa,Kuning,Ringan,Khalal
+4.64,16.65,5.35,77.35,20.8,Medjool,Cokelat Tua,Ringan,Tamr
+3.07,6.25,44.7,31.43,39.27,Medjool,Cokelat Muda,Tidak Ada,Rutab
+5.09,10.35,2.48,73.11,19.43,Zahidi,Cokelat Tua,Ringan,Tamr
+3.01,6.48,67.39,21.44,73.93,Barhi,Kuning,Tidak Ada,Khalal
+3.08,7.02,9.95,76.34,14.15,Zahidi,Hitam,Ringan,Tamr
+3.02,9.74,22.62,40.33,34.98,Barhi,Cokelat Muda,Tidak Ada,Rutab
+2.45,6.72,30.93,49.21,41.24,Deglet Noor,Cokelat Muda,Ringan,Rutab
+5.67,17.5,43.98,50.59,33.4,Medjool,Cokelat Muda,Ringan,Rutab
+3.74,12.03,6.34,67.51,11.28,Zahidi,Cokelat Tua,Berat,Tamr
+3.61,12.2,11.33,72.41,10.23,Deglet Noor,Cokelat Tua,Sedang,Tamr
+3.14,11.24,16.64,32.74,33.05,Medjool,Cokelat Tua,Tidak Ada,Rutab
+2.77,6.02,60.84,18.69,73.24,Zahidi,Kuning,Ringan,Khalal
+4.02,13.22,29.29,34.32,44.54,Zahidi,Cokelat Muda,Ringan,Rutab
+2.63,7.17,5.97,70.93,12.89,Medjool,Cokelat Tua,Sedang,Tamr
+4.55,16.21,6.77,59.33,18.83,Zahidi,Cokelat Tua,Ringan,Tamr
+2.63,8.94,82.04,20.56,63.9,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.6,7.5,73.67,21.85,62.45,Barhi,Kuning,Tidak Ada,Khalal
+2.72,6.88,10.33,64.09,27.37,Deglet Noor,Cokelat Tua,Berat,Tamr
+3.99,10.38,4.93,68.7,23.4,Deglet Noor,Cokelat Tua,Ringan,Tamr
+3.61,10.84,27.4,26.62,45.01,Ajwa,Cokelat Muda,Ringan,Rutab
+2.74,8.99,84.79,21.76,79.85,Medjool,Kuning,Berat,Khalal
+2.32,6.13,44.68,15.84,64.78,Ajwa,Kuning,Tidak Ada,Khalal
+2.79,8.69,2.28,60.34,19.26,Deglet Noor,Cokelat Tua,Ringan,Tamr
+2.75,9.79,37.13,20.1,76.77,Zahidi,Kuning,Tidak Ada,Khalal
+1.91,4.92,34.77,44.74,33.83,Ajwa,Cokelat Tua,Ringan,Rutab
+3.88,13.39,7.57,78.39,15.62,Medjool,Cokelat Tua,Ringan,Tamr
+3.52,7.11,20.17,29.35,57.63,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+4.54,16.25,36.37,47.85,40.98,Deglet Noor,Cokelat Muda,Ringan,Rutab
+2.27,6.86,40.64,48.31,32.21,Barhi,Cokelat Muda,Ringan,Rutab
+2.75,8.78,80.04,14.7,68.68,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.45,7.4,8.84,79.43,13.58,Deglet Noor,Hitam,Ringan,Tamr
+4.69,13.98,41.21,47.24,49.89,Medjool,Cokelat Muda,Tidak Ada,Rutab
+3.12,8.85,13.17,76.94,12.26,Zahidi,Hitam,Ringan,Tamr
+4.75,12.5,25.56,46.91,54.3,Medjool,Cokelat Muda,Ringan,Rutab
+2.25,5.54,24.62,42.06,36.37,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+4.15,13.18,20.87,51.16,49.0,Zahidi,Kuning,Berat,Rutab
+3.29,10.25,7.0,76.02,12.32,Ajwa,Hitam,Berat,Tamr
+2.13,7.36,53.71,17.85,64.24,Ajwa,Kuning,Tidak Ada,Khalal
+4.23,9.07,2.59,58.98,20.35,Medjool,Cokelat Tua,Ringan,Tamr
+3.21,6.46,79.49,21.33,76.78,Medjool,Kuning,Tidak Ada,Khalal
+3.22,7.25,,18.74,67.61,Zahidi,Kuning,Ringan,Khalal
+2.51,6.26,21.0,72.34,11.51,Zahidi,Cokelat Tua,Sedang,Tamr
+2.05,6.69,17.28,39.65,40.18,Ajwa,Cokelat Tua,Ringan,Rutab
+4.99,17.62,4.93,74.76,23.33,Zahidi,Cokelat Tua,Sedang,Tamr
+2.9,9.53,35.59,25.63,43.61,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+4.06,13.29,31.83,34.28,42.68,Medjool,Cokelat Tua,,Rutab
+2.89,8.62,12.96,58.96,10.11,Barhi,Hitam,Sedang,Tamr
+3.64,10.1,80.4,13.8,79.24,Barhi,Kuning,Berat,Khalal
+2.28,6.81,78.86,16.22,62.66,Barhi,Kuning,Tidak Ada,Khalal
+3.36,6.78,36.04,44.1,57.16,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+4.15,14.83,45.6,35.1,53.24,Zahidi,Cokelat Muda,Ringan,Rutab
+2.78,7.89,61.28,16.04,74.94,Deglet Noor,Cokelat Muda,Ringan,Khalal
+2.86,7.6,29.73,39.26,35.89,Medjool,Cokelat Muda,Ringan,Rutab
+3.54,10.76,12.59,74.22,12.19,Zahidi,Cokelat Tua,Tidak Ada,Tamr
+3.8,10.86,12.62,65.11,24.0,Zahidi,Hitam,Ringan,Tamr
+4.63,10.83,2.95,59.97,14.22,Barhi,Cokelat Tua,Ringan,Tamr
+4.92,17.59,36.32,39.42,49.74,Medjool,Cokelat Muda,Tidak Ada,Rutab
+3.81,8.64,50.14,15.6,69.89,Medjool,Cokelat Tua,Tidak Ada,Khalal
+4.04,14.01,38.62,27.02,37.72,Medjool,Cokelat Muda,Ringan,Rutab
+2.01,4.28,76.58,20.02,67.53,Ajwa,Cokelat Muda,Tidak Ada,Khalal
+2.55,7.86,6.98,65.52,13.5,Deglet Noor,Cokelat Tua,Sedang,Tamr
+5.06,16.39,64.95,22.13,69.72,Zahidi,Kuning,Tidak Ada,Khalal
+2.69,7.97,19.43,46.54,57.79,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+5.5,12.4,85.52,21.68,66.89,Medjool,Kuning,Tidak Ada,Khalal
+3.04,9.18,10.87,80.88,21.5,Ajwa,Cokelat Tua,Ringan,Tamr
+5.01,16.65,35.31,41.19,47.0,Zahidi,Cokelat Muda,Ringan,Rutab
+5.42,15.49,39.29,43.0,50.27,Medjool,Cokelat Muda,Sedang,Rutab
+3.93,8.31,17.71,40.82,47.99,Ajwa,Cokelat Muda,Ringan,Rutab
+3.68,12.44,32.82,52.87,40.34,Zahidi,Cokelat Tua,Ringan,Rutab
+4.2,12.16,38.23,35.45,32.17,Barhi,Kuning,Tidak Ada,Rutab
+4.88,9.77,39.86,15.0,72.87,Zahidi,Kuning,Tidak Ada,Khalal
+2.92,7.06,26.98,46.86,45.3,Barhi,Kuning,Ringan,Rutab
+4.05,10.71,47.56,38.03,50.91,Zahidi,Cokelat Muda,Ringan,Rutab
+3.39,8.53,12.12,59.7,16.81,Deglet Noor,Cokelat Tua,Ringan,Tamr
+3.47,9.74,10.17,69.34,14.64,Barhi,Cokelat Tua,Ringan,Tamr
+4.41,14.11,7.4,72.38,19.23,Zahidi,Hitam,Ringan,Tamr
+3.56,12.27,45.3,31.98,32.65,Ajwa,Cokelat Muda,Ringan,Rutab
+4.12,13.01,54.48,20.47,76.23,Deglet Noor,Kuning,Ringan,Khalal
+3.2,11.02,42.36,45.91,50.89,Barhi,Cokelat Tua,Ringan,Rutab
+4.84,11.41,83.23,18.07,62.57,Medjool,Kuning,Tidak Ada,Khalal
+1.98,4.06,6.45,61.75,25.8,Ajwa,Cokelat Tua,Ringan,Tamr
+3.73,8.76,57.24,15.79,65.21,Zahidi,Kuning,Tidak Ada,Khalal
+3.33,10.43,3.86,57.86,13.26,Deglet Noor,Hitam,Tidak Ada,Tamr
+4.34,14.45,2.48,69.86,27.62,Barhi,Cokelat Tua,Sedang,Tamr
+3.12,7.96,40.09,49.44,54.82,Ajwa,Cokelat Tua,Tidak Ada,Rutab
+2.7,8.53,13.33,71.99,23.72,Deglet Noor,Cokelat Tua,Tidak Ada,Tamr
+5.52,18.93,25.33,28.85,55.97,Medjool,Cokelat Muda,Ringan,Rutab
+2.59,8.7,13.04,69.87,23.36,Barhi,Hitam,Sedang,Tamr
+2.26,6.62,9.63,70.09,15.5,Ajwa,Cokelat Tua,Sedang,Tamr
+3.66,8.69,10.12,57.3,22.86,Ajwa,Cokelat Tua,Ringan,Tamr
+3.64,12.12,62.7,15.89,74.67,Ajwa,Kuning,Tidak Ada,Khalal
+3.48,11.51,4.48,60.97,12.17,Zahidi,Cokelat Tua,Ringan,Tamr
+4.61,10.55,5.97,79.22,19.73,Medjool,Cokelat Tua,Sedang,Tamr
+2.59,7.49,2.68,63.95,15.09,Zahidi,Cokelat Muda,Sedang,Tamr
+3.1,7.32,31.26,36.66,36.61,Ajwa,Cokelat Muda,Berat,Rutab
+2.64,8.89,43.04,30.96,44.41,Zahidi,Cokelat Muda,Ringan,Rutab
+1.96,6.21,52.91,23.52,65.14,Deglet Noor,Kuning,Ringan,Khalal
+2.52,8.4,2.54,64.65,13.46,Ajwa,Cokelat Tua,Ringan,Tamr
+2.1,5.14,18.37,76.37,13.39,Deglet Noor,Cokelat Tua,Ringan,Tamr
+2.96,8.61,86.5,18.2,64.58,Zahidi,Kuning,Tidak Ada,Khalal
+2.96,8.25,5.73,57.42,16.65,Ajwa,Cokelat Tua,,Tamr
+4.14,11.17,24.41,44.83,45.38,Barhi,Cokelat Muda,Ringan,Rutab
+4.16,10.43,57.74,40.82,56.13,Medjool,Cokelat Tua,Ringan,Rutab
+2.59,8.19,10.53,75.99,14.99,Zahidi,Cokelat Tua,Sedang,Tamr
+2.01,4.2,18.58,47.99,55.97,Ajwa,Cokelat Tua,Tidak Ada,Rutab
+4.21,12.68,8.82,76.06,27.37,Medjool,Cokelat Tua,Sedang,Tamr
+2.93,8.19,29.48,31.53,35.55,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+2.79,5.9,63.89,22.15,79.67,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.58,7.11,13.2,59.0,14.04,Ajwa,Hitam,Tidak Ada,Tamr
+3.61,12.58,8.94,73.33,27.83,Medjool,Hitam,Ringan,Tamr
+2.69,6.29,32.53,41.61,56.15,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+4.41,9.36,44.31,43.27,56.57,Zahidi,Cokelat Muda,Ringan,Rutab
+4.19,10.62,63.99,17.93,63.79,Barhi,Cokelat Muda,Sedang,Khalal
+4.19,10.15,10.41,71.08,18.01,Barhi,Cokelat Tua,Sedang,Tamr
+3.11,10.78,7.56,67.46,16.76,Deglet Noor,Cokelat Tua,Tidak Ada,Tamr
+3.78,9.76,82.62,16.93,63.52,Deglet Noor,Kuning,Ringan,Khalal
+3.86,12.86,37.15,46.81,55.32,Medjool,Cokelat Muda,Tidak Ada,Rutab
+2.75,9.25,65.8,22.76,73.22,Deglet Noor,Kuning,Ringan,Khalal
+4.61,11.93,57.59,18.12,73.45,Medjool,Kuning,Tidak Ada,Khalal
+2.27,4.95,67.12,23.63,76.71,Barhi,Kuning,Ringan,Khalal
+2.78,8.13,5.09,62.23,20.29,Ajwa,Hitam,Ringan,Tamr
+4.06,14.34,3.89,76.87,24.52,Deglet Noor,Cokelat Tua,Ringan,Tamr
+2.36,5.35,85.41,16.49,71.04,Zahidi,Cokelat Muda,Tidak Ada,Khalal
+2.24,8.0,19.22,34.57,55.53,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+6.11,17.87,68.67,17.92,77.72,Medjool,Kuning,Tidak Ada,Khalal
+1.89,5.58,43.12,29.47,42.94,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+2.03,5.19,32.66,37.97,50.57,Deglet Noor,Cokelat Muda,Ringan,Rutab
+2.61,8.43,84.1,21.34,64.36,Barhi,Cokelat Muda,Tidak Ada,Khalal
+2.59,5.61,12.04,74.37,22.29,Medjool,Cokelat Tua,Sedang,Tamr
+3.95,8.7,44.9,39.08,51.35,Barhi,Cokelat Tua,Ringan,Rutab
+3.62,8.63,15.46,58.7,24.81,Deglet Noor,Hitam,Ringan,Tamr
+3.27,8.65,42.15,21.09,62.28,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.4,6.52,16.71,36.84,39.02,Zahidi,Cokelat Muda,Ringan,Rutab
+4.12,14.8,82.25,17.01,68.05,Zahidi,Kuning,Ringan,Khalal
+3.78,12.84,32.06,35.36,50.69,Ajwa,Cokelat Muda,Ringan,Rutab
+3.32,8.11,44.13,52.49,43.93,Barhi,Cokelat Muda,Ringan,Rutab
+3.01,10.32,12.39,60.78,10.63,Deglet Noor,Cokelat Tua,Berat,Tamr
+2.18,6.85,38.47,34.37,51.67,Deglet Noor,Cokelat Muda,Sedang,Rutab
+2.72,9.21,57.03,18.6,79.92,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.85,8.49,61.75,21.44,63.13,Barhi,Kuning,Tidak Ada,Khalal
+4.46,11.44,6.27,74.41,27.86,Deglet Noor,Cokelat Tua,Tidak Ada,Tamr
+1.72,4.37,31.04,46.3,40.56,Ajwa,Cokelat Muda,Berat,Rutab
+3.49,11.34,62.44,20.04,74.02,Ajwa,Kuning,Tidak Ada,Khalal
+2.56,7.05,70.7,19.89,76.06,Medjool,Kuning,Tidak Ada,Khalal
+2.85,9.03,73.78,24.19,62.45,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.39,7.09,33.14,42.83,53.05,Ajwa,Cokelat Tua,Sedang,Rutab
+2.6,7.85,47.51,37.87,43.05,Ajwa,Cokelat Muda,Ringan,Rutab
+3.55,8.55,25.81,34.35,42.66,Deglet Noor,Cokelat Muda,,Rutab
+2.28,5.09,66.52,15.5,62.08,Barhi,Kuning,Tidak Ada,Khalal
+3.08,9.59,82.14,23.55,78.31,Medjool,Cokelat Tua,Tidak Ada,Khalal
+6.0,14.02,9.22,28.14,42.41,Medjool,Cokelat Tua,Berat,Rutab
+4.01,10.49,9.56,74.27,12.64,Zahidi,Hitam,Ringan,Tamr
+3.09,9.17,22.35,46.78,52.03,Deglet Noor,Cokelat Muda,Berat,Rutab
+4.29,12.86,54.73,16.15,74.85,Medjool,Kuning,Tidak Ada,Khalal
+4.33,10.03,2.17,71.45,24.26,Barhi,Cokelat Tua,Sedang,Tamr
+4.29,13.56,,20.83,68.38,Zahidi,Kuning,Tidak Ada,Khalal
+3.74,12.54,4.82,58.36,20.73,Medjool,Cokelat Tua,,Tamr
+5.2,17.54,28.0,26.27,42.38,Medjool,Cokelat Tua,Sedang,Rutab
+4.84,17.23,33.03,28.15,36.97,Zahidi,Cokelat Muda,Sedang,Rutab
+4.29,15.32,21.02,76.93,18.5,Deglet Noor,Hitam,Sedang,Tamr
+2.84,6.09,4.59,61.55,12.6,Deglet Noor,Hitam,Sedang,Tamr
+2.03,5.83,42.27,24.12,77.41,Ajwa,Kuning,Tidak Ada,Khalal
+3.93,7.87,25.06,42.51,47.8,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+5.07,14.77,75.59,18.59,62.71,Medjool,Kuning,Tidak Ada,Khalal
+3.49,12.5,27.08,52.89,36.34,Barhi,Cokelat Muda,Tidak Ada,Rutab
+2.19,5.21,20.41,30.8,45.74,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+4.17,10.84,7.37,72.8,22.95,Deglet Noor,Cokelat Tua,Sedang,Tamr
+2.55,6.16,6.13,64.75,23.69,Ajwa,Hitam,,Tamr
+2.18,4.97,4.68,58.68,17.86,Deglet Noor,Cokelat Tua,Ringan,Tamr
+2.58,6.57,87.83,20.1,74.65,Ajwa,Cokelat Muda,Sedang,Khalal
+2.48,7.62,52.4,16.74,63.25,Ajwa,Kuning,Ringan,Khalal
+2.86,10.1,40.81,40.67,36.86,Ajwa,Cokelat Muda,Ringan,Rutab
+2.85,9.9,74.16,18.79,62.94,Ajwa,Kuning,Tidak Ada,Khalal
+2.05,6.66,60.91,14.62,79.31,Deglet Noor,Cokelat Muda,Tidak Ada,Khalal
+3.12,8.68,35.3,53.13,49.35,Barhi,Cokelat Muda,Ringan,Rutab
+2.58,8.68,70.65,22.91,72.87,Zahidi,Kuning,Tidak Ada,Khalal
+4.88,13.56,26.04,32.58,34.74,Medjool,Cokelat Muda,Berat,Rutab
+4.6,14.8,21.38,31.46,55.21,Deglet Noor,Cokelat Muda,Ringan,Rutab
+2.38,6.0,13.79,55.14,10.63,Barhi,Hitam,Ringan,Tamr
+5.27,13.1,28.57,42.19,56.91,Medjool,Cokelat Muda,Ringan,Rutab
+3.87,9.28,5.8,78.35,10.25,Zahidi,Cokelat Tua,Sedang,Tamr
+2.68,5.72,85.98,18.17,66.08,Barhi,Kuning,Tidak Ada,Khalal
+2.62,5.58,5.8,58.95,23.37,Zahidi,Hitam,Tidak Ada,Tamr
+4.04,10.0,77.23,15.17,78.03,Zahidi,Kuning,Tidak Ada,Khalal
+2.82,5.8,66.89,17.45,73.55,Medjool,Cokelat Muda,Ringan,Khalal
+3.76,11.37,46.51,35.18,47.9,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+1.87,4.48,89.54,22.48,74.33,Ajwa,Kuning,Tidak Ada,Khalal
+2.95,7.56,26.42,51.64,33.05,Zahidi,Cokelat Muda,Sedang,Rutab
+4.03,13.27,82.02,16.47,69.25,Medjool,Kuning,Tidak Ada,Khalal
+2.86,6.68,34.2,38.12,57.13,Ajwa,Cokelat Muda,Ringan,Rutab
+2.86,8.99,34.61,26.45,34.76,Deglet Noor,Cokelat Muda,Ringan,Rutab
+3.33,11.3,6.65,73.06,13.42,Zahidi,Cokelat Tua,Sedang,Tamr
+3.4,8.94,84.95,24.68,79.25,Zahidi,Kuning,Ringan,Khalal
+2.99,8.42,,39.44,35.02,Ajwa,Cokelat Muda,Sedang,Rutab
+3.11,7.86,9.55,73.3,26.15,Ajwa,Cokelat Tua,Ringan,Tamr
+2.86,8.4,21.75,31.43,34.95,Medjool,Cokelat Muda,Tidak Ada,Rutab
+1.75,3.57,26.74,50.66,40.56,Ajwa,Cokelat Tua,Ringan,Rutab
+2.52,8.02,89.94,20.47,69.58,Ajwa,Kuning,Tidak Ada,Khalal
+4.53,9.59,12.74,70.06,27.27,Barhi,Cokelat Tua,Tidak Ada,Tamr
+5.12,13.19,9.67,61.11,20.21,Zahidi,Hitam,Ringan,Tamr
+4.22,14.27,31.99,42.71,48.23,Medjool,Cokelat Muda,Ringan,Rutab
+2.6,7.99,55.04,16.96,65.32,Deglet Noor,Kuning,Tidak Ada,Khalal
+1.97,5.14,32.03,46.49,43.16,Deglet Noor,Cokelat Muda,Ringan,Rutab
+2.85,8.25,4.97,81.47,23.62,Barhi,Cokelat Tua,Sedang,Tamr
+3.42,8.21,6.9,72.0,12.18,Ajwa,Cokelat Tua,Ringan,Tamr
+2.25,5.76,15.93,74.89,27.6,Barhi,Cokelat Tua,Berat,Tamr
+2.34,8.22,22.31,45.8,43.8,Deglet Noor,Cokelat Tua,Ringan,Rutab
+5.37,13.88,35.57,34.2,34.81,Medjool,Cokelat Muda,Ringan,Rutab
+2.26,8.06,72.21,15.16,65.76,Barhi,Kuning,Tidak Ada,Khalal
+3.08,8.91,2.25,63.64,10.78,Ajwa,Cokelat Tua,,Tamr
+1.85,4.79,10.72,71.82,19.78,Ajwa,Cokelat Tua,Ringan,Tamr
+2.71,8.01,80.1,22.16,62.55,Medjool,Kuning,Tidak Ada,Khalal
+3.9,11.98,11.71,75.12,27.53,Medjool,Cokelat Tua,Tidak Ada,Tamr
+3.76,7.89,8.4,44.82,53.92,Ajwa,Cokelat Muda,Ringan,Rutab
+3.5,11.78,89.63,18.73,73.66,Medjool,Kuning,Tidak Ada,Khalal
+2.43,6.25,26.26,43.71,32.61,Zahidi,Cokelat Tua,Ringan,Rutab
+3.9,11.78,7.48,69.09,18.84,Medjool,Cokelat Tua,Sedang,Tamr
+4.0,12.62,55.96,21.34,62.95,Zahidi,Kuning,Tidak Ada,Khalal
+3.79,9.05,59.73,23.47,62.85,Barhi,Kuning,Tidak Ada,Khalal
+2.95,7.9,66.55,20.88,78.99,Medjool,Kuning,Tidak Ada,Khalal
+2.71,5.73,5.41,63.91,16.82,Deglet Noor,Hitam,Ringan,Tamr
+3.21,8.63,63.64,23.72,67.21,Ajwa,Cokelat Muda,Tidak Ada,Khalal
+4.04,10.83,36.76,43.57,35.65,Barhi,Cokelat Muda,Sedang,Rutab
+3.81,12.45,8.89,72.3,16.51,Ajwa,Cokelat Tua,Ringan,Tamr
+4.17,13.01,5.04,79.99,18.37,Zahidi,Hitam,Sedang,Tamr
+5.83,12.11,6.46,62.56,12.88,Medjool,Cokelat Tua,Sedang,Tamr
+3.83,8.35,53.87,16.44,66.68,Barhi,Cokelat Muda,Tidak Ada,Khalal
+3.96,8.19,80.12,18.27,77.45,Deglet Noor,Cokelat Muda,Ringan,Khalal
+4.66,16.42,38.69,19.91,79.06,Barhi,Kuning,Tidak Ada,Khalal
+3.13,10.23,5.89,69.5,22.13,Medjool,Cokelat Tua,Ringan,Tamr
+5.2,16.95,13.57,63.01,24.88,Zahidi,Cokelat Tua,Sedang,Tamr
+3.32,7.72,12.68,71.79,23.79,Medjool,Hitam,Sedang,Tamr
+5.57,17.16,15.28,59.19,13.35,Medjool,Cokelat Tua,Ringan,Tamr
+2.89,8.67,18.43,72.54,11.78,Zahidi,Cokelat Tua,Sedang,Tamr
+1.96,4.15,38.65,51.14,57.55,Ajwa,Cokelat Muda,Ringan,Rutab
+3.51,9.81,17.44,52.08,57.4,Barhi,Cokelat Muda,Ringan,Rutab
+3.5,7.55,37.08,25.38,32.03,Barhi,Cokelat Muda,Ringan,Rutab
+5.03,11.43,40.8,39.0,45.18,Medjool,Cokelat Muda,Sedang,Rutab
+3.47,8.89,20.58,28.35,42.08,Ajwa,Cokelat Tua,Ringan,Rutab
+2.63,9.08,69.79,21.87,64.78,Deglet Noor,Kuning,Tidak Ada,Khalal
+4.72,16.1,,50.01,48.54,Zahidi,Cokelat Muda,Ringan,Rutab
+2.25,6.56,2.38,54.36,19.27,Barhi,Cokelat Tua,Sedang,Tamr
+2.83,7.23,54.2,21.08,78.7,Medjool,Kuning,Tidak Ada,Khalal
+2.71,9.12,13.99,60.07,24.28,Ajwa,Cokelat Tua,Berat,Tamr
+2.96,7.81,3.0,67.26,14.96,Deglet Noor,Cokelat Tua,Ringan,Tamr
+3.98,12.72,19.1,53.63,52.03,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+2.42,8.44,24.46,28.0,46.65,Barhi,Cokelat Muda,Ringan,Rutab
+3.35,7.13,10.34,59.72,25.52,Ajwa,Cokelat Tua,Tidak Ada,Tamr
+2.91,7.71,7.15,68.5,27.16,Barhi,Cokelat Tua,Tidak Ada,Tamr
+3.91,7.93,47.17,48.7,46.61,Deglet Noor,Cokelat Muda,Ringan,Rutab
+4.12,13.63,71.39,19.97,77.65,Barhi,Cokelat Muda,Ringan,Khalal
+5.12,15.63,3.49,53.87,17.05,Medjool,Cokelat Tua,Ringan,Tamr
+3.38,11.44,3.91,61.56,20.85,Zahidi,Cokelat Tua,Sedang,Tamr
+3.89,8.88,,18.43,72.45,Medjool,Kuning,Tidak Ada,Khalal
+3.68,10.03,33.79,38.1,32.39,Medjool,Cokelat Muda,Ringan,Rutab
+2.62,8.93,8.1,67.84,18.43,Deglet Noor,Hitam,Sedang,Tamr
+2.81,6.82,9.71,61.7,23.65,Medjool,Cokelat Tua,Sedang,Tamr
+2.69,6.35,24.23,36.3,55.76,Deglet Noor,Cokelat Muda,Ringan,Rutab
+4.24,11.76,52.56,24.3,66.0,Zahidi,Kuning,Tidak Ada,Khalal
+2.48,7.49,67.27,17.04,70.59,Deglet Noor,Cokelat Tua,Ringan,Khalal
+5.0,12.37,52.04,16.56,73.91,Zahidi,Kuning,Tidak Ada,Khalal
+2.47,6.13,21.35,32.07,45.9,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+3.57,8.68,9.18,71.7,15.24,Zahidi,Hitam,Ringan,Tamr
+3.4,11.44,,26.81,51.04,Ajwa,Cokelat Muda,Ringan,Rutab
+2.13,4.66,10.7,66.39,14.55,Deglet Noor,Cokelat Tua,Ringan,Tamr
+3.37,6.83,13.5,48.1,35.52,Ajwa,Cokelat Tua,Ringan,Rutab
+3.62,12.15,64.32,19.83,72.86,Medjool,Kuning,Tidak Ada,Khalal
+2.05,6.82,89.04,15.54,77.63,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.13,5.88,13.85,72.67,10.91,Deglet Noor,Hitam,Berat,Tamr
+5.57,18.61,39.67,43.71,53.93,Medjool,Cokelat Muda,Ringan,Rutab
+2.82,7.31,61.2,19.63,79.7,Zahidi,Kuning,Ringan,Khalal
+2.54,8.42,63.9,25.08,77.42,Barhi,Kuning,Tidak Ada,Khalal
+2.51,7.72,58.81,17.55,64.12,Ajwa,Kuning,Ringan,Khalal
+3.21,6.92,16.43,31.32,32.56,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+2.8,8.63,7.56,79.23,10.9,Ajwa,Hitam,Ringan,Tamr
+4.67,9.65,16.74,30.73,46.52,Medjool,Cokelat Muda,Sedang,Rutab
+3.36,9.96,65.86,20.56,65.45,Barhi,Kuning,Ringan,Khalal
+2.65,9.37,25.28,37.87,40.4,Medjool,Cokelat Muda,Ringan,Rutab
+4.41,14.13,40.11,44.98,44.4,Deglet Noor,Kuning,Ringan,Rutab
+1.79,5.87,29.82,40.2,50.54,Ajwa,Cokelat Muda,Ringan,Rutab
+5.31,18.53,24.65,50.59,41.34,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+3.24,6.86,25.29,30.46,50.48,Barhi,Cokelat Tua,Tidak Ada,Rutab
+2.44,7.95,62.08,20.84,73.12,Deglet Noor,Kuning,Tidak Ada,Khalal
+4.07,10.48,17.27,62.72,23.48,Medjool,Hitam,Sedang,Tamr
+3.41,11.34,8.84,62.03,15.89,Barhi,Cokelat Tua,Ringan,Tamr
+2.82,8.03,61.19,21.42,63.37,Ajwa,Kuning,Tidak Ada,Khalal
+2.49,6.27,28.39,30.42,54.38,Ajwa,Cokelat Tua,Ringan,Rutab
+2.18,4.62,56.03,17.15,65.51,Ajwa,Kuning,Tidak Ada,Khalal
+4.78,10.76,89.56,21.91,73.87,Barhi,Cokelat Muda,Tidak Ada,Khalal
+4.46,15.67,85.62,16.6,67.07,Zahidi,Kuning,,Khalal
+1.94,6.71,23.23,52.57,44.91,Ajwa,Cokelat Muda,Sedang,Rutab
+4.13,9.67,10.26,65.52,19.41,Zahidi,Hitam,Berat,Tamr
+3.08,9.17,34.43,27.76,32.69,Deglet Noor,Cokelat Tua,Tidak Ada,Rutab
+3.62,8.14,19.41,63.39,11.89,Barhi,Cokelat Tua,Berat,Tamr
+3.69,11.47,19.58,33.22,43.22,Medjool,Cokelat Muda,Tidak Ada,Rutab
+3.36,7.45,4.17,69.38,19.91,Ajwa,Cokelat Tua,Tidak Ada,Tamr
+4.66,10.79,47.49,47.65,49.06,Medjool,Cokelat Muda,Tidak Ada,Rutab
+3.66,11.55,18.76,29.77,40.77,Barhi,Cokelat Muda,Ringan,Rutab
+3.1,8.16,6.0,59.05,25.49,Medjool,Hitam,Ringan,Tamr
+3.73,9.0,77.18,20.53,71.84,Deglet Noor,Cokelat Muda,Ringan,Khalal
+3.23,8.44,3.12,60.31,22.24,Ajwa,Cokelat Tua,Ringan,Tamr
+2.99,6.63,89.14,17.27,67.39,Medjool,Kuning,,Khalal
+2.72,7.4,64.82,15.32,65.8,Medjool,Kuning,Tidak Ada,Khalal
+1.8,4.17,52.21,20.49,75.12,Ajwa,Kuning,Tidak Ada,Khalal
+4.51,11.54,54.31,46.1,39.52,Zahidi,Cokelat Muda,Berat,Rutab
+2.9,8.29,41.23,52.84,53.43,Medjool,Cokelat Muda,Tidak Ada,Rutab
+5.06,12.87,5.07,62.77,23.27,Medjool,Cokelat Tua,Tidak Ada,Tamr
+2.94,7.45,58.45,18.91,66.13,Zahidi,Kuning,Tidak Ada,Khalal
+3.36,11.34,31.27,46.68,33.93,Ajwa,Cokelat Muda,Ringan,Rutab
+3.17,10.71,58.81,20.81,69.14,Barhi,Cokelat Muda,Tidak Ada,Khalal
+3.09,8.56,63.92,15.03,78.17,Ajwa,Kuning,Sedang,Khalal
+4.27,12.67,32.12,52.69,42.53,Medjool,Hitam,Ringan,Rutab
+2.82,5.72,40.72,27.49,49.0,Deglet Noor,Cokelat Tua,Ringan,Rutab
+3.36,10.04,33.41,46.03,45.89,Ajwa,Cokelat Tua,Ringan,Rutab
+5.41,15.47,11.74,73.39,17.19,Medjool,Hitam,Tidak Ada,Tamr
+2.82,8.43,11.84,80.64,21.28,Ajwa,Hitam,Sedang,Tamr
+2.1,5.15,44.4,29.74,50.09,Barhi,Cokelat Muda,Berat,Rutab
+4.0,14.11,3.77,69.07,13.38,Medjool,Hitam,Ringan,Tamr
+4.0,12.14,29.27,46.93,37.2,Zahidi,Cokelat Muda,Ringan,Rutab
+5.34,15.49,2.93,70.01,26.26,Medjool,Hitam,Sedang,Tamr
+3.89,8.67,63.56,20.86,67.51,Barhi,Kuning,Tidak Ada,Khalal
+4.2,9.11,81.19,18.82,66.49,Medjool,Kuning,Ringan,Khalal
+4.74,15.0,78.33,16.69,73.92,Zahidi,Cokelat Muda,Tidak Ada,Khalal
+1.89,5.55,52.43,17.65,62.72,Deglet Noor,Kuning,Sedang,Khalal
+3.44,8.52,11.57,63.62,14.61,Ajwa,Cokelat Tua,Ringan,Tamr
+2.97,8.41,45.86,45.14,32.13,Barhi,Cokelat Muda,Sedang,Rutab
+3.35,11.88,,59.25,19.82,Barhi,Cokelat Tua,Berat,Tamr
+5.69,16.45,54.08,19.67,67.24,Medjool,Cokelat Muda,Tidak Ada,Khalal
+3.83,10.65,50.75,40.94,54.22,Medjool,Cokelat Tua,Tidak Ada,Rutab
+4.13,13.62,10.11,43.43,35.91,Zahidi,Cokelat Muda,Ringan,Rutab
+1.97,4.96,29.12,26.67,55.34,Ajwa,Cokelat Muda,Sedang,Rutab
+2.24,7.93,8.41,71.52,19.44,Zahidi,Hitam,Sedang,Tamr
+3.64,8.83,13.82,54.76,23.87,Ajwa,Cokelat Muda,Ringan,Tamr
+2.86,9.12,11.24,71.57,14.38,Barhi,Hitam,Ringan,Tamr
+5.7,15.02,88.21,17.56,77.38,Medjool,Kuning,Tidak Ada,Khalal
+4.1,13.41,45.28,48.8,56.26,Deglet Noor,Cokelat Tua,Ringan,Rutab
+4.54,10.48,18.78,29.81,45.6,Deglet Noor,Cokelat Muda,Ringan,Rutab
+2.64,7.85,31.51,33.78,55.15,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+4.93,13.61,12.23,56.19,21.15,Medjool,Cokelat Tua,Sedang,Tamr
+5.38,14.9,86.9,16.24,78.43,Medjool,Kuning,Tidak Ada,Khalal
+4.3,11.82,82.44,16.56,77.91,Zahidi,Kuning,Tidak Ada,Khalal
+2.42,7.91,30.6,32.93,45.24,Deglet Noor,Cokelat Muda,Ringan,Rutab
+3.72,8.67,25.97,34.94,44.18,Deglet Noor,Cokelat Tua,Ringan,Rutab
+3.02,10.1,52.15,22.48,67.69,Ajwa,Kuning,Tidak Ada,Khalal
+3.92,13.65,2.38,56.75,10.69,Barhi,Cokelat Tua,Sedang,Tamr
+4.89,12.53,33.76,49.36,38.7,Zahidi,Cokelat Muda,Ringan,Rutab
+3.43,8.55,18.33,36.96,52.61,Zahidi,Cokelat Muda,Sedang,Rutab
+2.66,8.46,28.37,42.65,54.68,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+4.68,15.08,55.27,34.89,34.89,Medjool,Cokelat Muda,Sedang,Rutab
+2.75,6.7,41.05,21.31,75.18,Ajwa,Kuning,Tidak Ada,Khalal
+1.87,6.25,3.33,60.94,24.55,Ajwa,Cokelat Tua,Ringan,Tamr
+3.96,13.16,10.05,57.75,20.75,Medjool,Cokelat Tua,Ringan,Tamr
+3.16,8.25,16.59,36.03,40.15,Medjool,Cokelat Muda,Berat,Rutab
+2.83,6.14,38.04,46.29,56.15,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+3.58,10.13,21.45,61.97,19.51,Medjool,Cokelat Tua,Ringan,Tamr
+4.14,8.72,30.87,43.21,53.64,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+4.38,12.52,7.9,71.04,12.28,Barhi,Cokelat Tua,Ringan,Tamr
+3.41,8.55,15.31,61.54,10.54,Barhi,Cokelat Tua,Ringan,Tamr
+3.96,9.92,7.78,69.65,12.77,Zahidi,Cokelat Tua,Sedang,Tamr
+3.82,12.67,54.4,21.21,70.31,Barhi,Kuning,Ringan,Khalal
+2.41,7.5,36.65,37.1,38.82,Zahidi,Cokelat Tua,Ringan,Rutab
+3.42,10.86,75.18,16.35,66.7,Ajwa,Kuning,Tidak Ada,Khalal
+4.18,13.29,25.64,43.5,36.45,Zahidi,Cokelat Muda,Ringan,Rutab
+3.55,10.55,50.23,24.36,76.55,Ajwa,Kuning,Ringan,Khalal
+4.63,9.73,63.82,20.42,73.48,Zahidi,Kuning,Tidak Ada,Khalal
+3.61,10.76,66.19,16.14,68.39,Zahidi,Kuning,Ringan,Khalal
+3.49,11.25,7.34,68.86,23.47,Barhi,Cokelat Tua,Ringan,Tamr
+3.11,10.78,56.96,51.05,34.0,Barhi,Cokelat Tua,Ringan,Rutab
+4.22,13.47,6.9,61.85,27.61,Zahidi,Cokelat Tua,Sedang,Tamr
+5.13,13.68,79.35,22.35,75.15,Medjool,Kuning,Ringan,Khalal
+3.46,8.84,2.21,61.65,21.1,Deglet Noor,Cokelat Tua,Ringan,Tamr
+3.54,9.55,67.14,20.87,62.82,Zahidi,Kuning,Tidak Ada,Khalal
+1.95,5.77,8.16,67.36,17.9,Ajwa,Cokelat Tua,Ringan,Tamr
+2.74,8.75,10.0,70.34,13.36,Barhi,Cokelat Tua,Tidak Ada,Tamr
+2.08,6.3,12.6,47.21,41.24,Ajwa,Kuning,Ringan,Rutab
+5.97,13.93,20.64,53.0,57.79,Medjool,Cokelat Muda,Ringan,Rutab
+2.06,7.34,25.0,27.52,50.44,Barhi,Cokelat Muda,Tidak Ada,Rutab
+3.18,8.87,17.32,27.71,47.7,Barhi,Cokelat Muda,Berat,Rutab
+3.11,10.15,42.89,36.1,44.22,Ajwa,Cokelat Muda,Sedang,Rutab
+3.38,7.45,57.1,26.34,46.82,Zahidi,Kuning,Tidak Ada,Rutab
+4.12,9.56,74.43,19.57,62.51,Deglet Noor,Kuning,Ringan,Khalal
+2.05,4.89,55.57,23.36,73.49,Ajwa,Kuning,Tidak Ada,Khalal
+5.32,13.94,40.72,15.08,65.18,Medjool,Kuning,Tidak Ada,Khalal
+3.25,9.27,44.14,38.74,33.83,Barhi,Cokelat Muda,,Rutab
+3.37,7.44,56.87,17.19,73.54,Deglet Noor,Kuning,Ringan,Khalal
+5.24,10.83,58.23,21.1,72.68,Medjool,Kuning,Tidak Ada,Khalal
+3.17,6.41,60.61,19.53,72.99,Ajwa,Kuning,Tidak Ada,Khalal
+4.27,13.81,59.11,19.49,71.14,Medjool,Kuning,Tidak Ada,Khalal
+2.13,6.84,47.53,38.89,55.5,Barhi,Cokelat Muda,Ringan,Rutab
+5.07,12.21,85.27,17.24,64.33,Medjool,Cokelat Muda,Tidak Ada,Khalal
+3.28,9.53,66.46,20.52,71.82,Zahidi,Kuning,,Khalal
+4.26,9.65,25.63,47.41,40.35,Medjool,Cokelat Muda,Ringan,Rutab
+3.35,10.37,43.12,52.28,50.65,Barhi,Cokelat Muda,Ringan,Rutab
+3.31,7.07,38.72,19.33,69.59,Medjool,Kuning,,Khalal
+3.85,9.74,8.76,64.39,11.1,Zahidi,Cokelat Tua,Berat,Tamr
+5.87,14.32,10.37,35.39,48.77,Medjool,Cokelat Muda,Sedang,Rutab
+3.97,11.87,89.26,21.84,71.99,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.13,7.6,9.84,68.02,20.89,Ajwa,Cokelat Tua,Tidak Ada,Tamr
+2.64,9.15,43.34,27.61,52.35,Zahidi,Cokelat Tua,Ringan,Rutab
+3.01,6.97,37.49,26.63,50.18,Deglet Noor,Cokelat Muda,Ringan,Rutab
+2.55,8.94,3.7,62.72,25.5,Barhi,Cokelat Muda,Sedang,Tamr
+2.59,6.43,8.73,56.73,23.15,Zahidi,Cokelat Tua,Tidak Ada,Tamr
+3.65,8.39,31.53,52.46,48.49,Ajwa,Cokelat Muda,Ringan,Rutab
+5.02,13.55,42.17,52.15,56.64,Medjool,Cokelat Muda,Ringan,Rutab
+3.87,12.27,10.29,68.75,15.04,Zahidi,Cokelat Tua,Ringan,Tamr
+4.85,16.55,33.97,33.03,44.84,Zahidi,Cokelat Muda,Ringan,Rutab
+4.08,10.44,64.0,21.21,67.39,Barhi,Kuning,Ringan,Khalal
+4.12,9.71,13.43,75.35,25.91,Zahidi,Cokelat Tua,Sedang,Tamr
+4.14,11.2,16.28,76.76,19.11,Medjool,Cokelat Tua,Berat,Tamr
+3.71,8.43,2.22,76.11,11.91,Ajwa,Cokelat Tua,Sedang,Tamr
+5.32,17.16,54.27,37.5,57.7,Zahidi,Cokelat Muda,Sedang,Rutab
+2.18,5.86,64.65,20.64,65.0,Deglet Noor,Kuning,Ringan,Khalal
+2.72,8.22,44.06,36.27,45.33,Deglet Noor,Cokelat Tua,Ringan,Rutab
+4.03,9.65,57.98,17.23,66.3,Deglet Noor,Kuning,Ringan,Khalal
+2.33,7.24,18.27,47.62,53.88,Barhi,Cokelat Muda,,Rutab
+2.06,5.44,21.44,33.25,46.46,Barhi,Cokelat Tua,Tidak Ada,Rutab
+3.53,11.55,74.65,21.72,71.56,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.1,11.05,54.65,22.03,76.58,Ajwa,Kuning,Tidak Ada,Khalal
+4.22,14.72,34.83,44.46,51.97,Medjool,Cokelat Muda,Tidak Ada,Rutab
+2.95,8.97,,21.78,72.23,Medjool,Kuning,Ringan,Khalal
+1.82,4.32,37.93,45.35,54.96,Ajwa,Cokelat Muda,Ringan,Rutab
+5.03,14.8,,30.67,57.27,Zahidi,Hitam,Ringan,Rutab
+2.16,6.52,9.31,35.62,41.05,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+2.93,10.35,52.96,15.87,78.39,Ajwa,Kuning,Tidak Ada,Khalal
+3.05,10.51,8.07,74.16,10.58,Ajwa,Hitam,Sedang,Tamr
+4.84,13.3,83.77,21.75,69.3,Zahidi,Kuning,Tidak Ada,Khalal
+2.9,7.72,48.97,20.33,79.99,Ajwa,Kuning,Ringan,Khalal
+5.07,12.91,7.57,64.04,26.48,Zahidi,Hitam,Ringan,Tamr
+4.7,11.64,65.63,16.72,65.79,Medjool,Kuning,Berat,Khalal
+4.0,9.29,23.49,30.39,39.94,Barhi,Cokelat Muda,Tidak Ada,Rutab
+3.96,11.63,80.0,20.61,72.16,Barhi,Kuning,Ringan,Khalal
+4.12,9.16,29.64,42.51,39.13,Medjool,Cokelat Tua,Sedang,Rutab
+2.43,5.73,12.17,78.66,17.31,Ajwa,Hitam,Berat,Tamr
+4.53,14.58,8.28,76.63,25.19,Barhi,Cokelat Tua,Tidak Ada,Tamr
+3.78,9.76,4.57,70.7,24.39,Zahidi,Cokelat Tua,Tidak Ada,Tamr
+4.37,11.24,46.31,40.98,38.03,Zahidi,Cokelat Tua,Ringan,Rutab
+2.47,7.28,78.7,19.78,63.88,Barhi,Kuning,Ringan,Khalal
+2.73,6.04,88.6,24.14,69.78,Barhi,Kuning,Tidak Ada,Khalal
+3.3,7.67,4.24,77.34,20.24,Ajwa,Hitam,Sedang,Tamr
+3.03,8.68,85.17,21.68,73.86,Ajwa,Kuning,Tidak Ada,Khalal
+3.34,10.4,7.85,62.58,19.06,Medjool,Hitam,Ringan,Tamr
+3.4,7.08,72.57,21.88,74.85,Ajwa,Kuning,Ringan,Khalal
+2.86,9.66,54.17,30.53,49.28,Barhi,Cokelat Muda,Sedang,Rutab
+3.74,9.81,2.0,74.64,14.01,Deglet Noor,Hitam,Ringan,Tamr
+3.1,9.35,86.16,15.71,64.08,Ajwa,Kuning,Tidak Ada,Khalal
+4.66,14.4,72.71,16.95,69.27,Medjool,Kuning,Tidak Ada,Khalal
+4.82,10.35,74.76,21.75,66.81,Zahidi,Cokelat Muda,Tidak Ada,Khalal
+5.13,13.11,46.38,18.92,66.08,Medjool,Kuning,Tidak Ada,Khalal
+2.79,6.32,55.96,22.98,71.51,Zahidi,Kuning,Ringan,Khalal
+4.5,14.94,42.11,49.66,48.74,Barhi,Cokelat Muda,Ringan,Rutab
+3.58,7.94,55.59,24.45,73.7,Barhi,Kuning,Ringan,Khalal
+2.83,5.66,58.04,23.0,63.84,Deglet Noor,Kuning,Ringan,Khalal
+4.08,12.83,21.48,32.6,41.88,Zahidi,Kuning,Berat,Rutab
+3.36,8.2,33.12,29.54,38.91,Zahidi,Kuning,Sedang,Rutab
+3.9,12.44,32.17,39.54,44.79,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+2.36,7.32,29.08,37.93,33.97,Deglet Noor,Cokelat Muda,Ringan,Rutab
+2.7,7.12,89.04,19.42,75.63,Medjool,Cokelat Muda,Ringan,Khalal
+2.72,9.11,55.02,21.82,77.71,Zahidi,Kuning,Ringan,Khalal
+2.7,7.6,80.18,18.37,65.92,Ajwa,Kuning,Tidak Ada,Khalal
+5.05,16.79,2.91,74.62,21.67,Zahidi,Hitam,Ringan,Tamr
+2.62,8.12,2.32,65.43,23.39,Deglet Noor,Hitam,Ringan,Tamr
+2.33,7.85,8.25,56.57,17.79,Zahidi,Cokelat Tua,Ringan,Tamr
+4.49,11.1,56.36,21.16,70.32,Medjool,Kuning,Ringan,Khalal
+2.28,7.7,2.04,73.44,12.92,Ajwa,Cokelat Tua,Ringan,Tamr
+3.08,8.14,11.55,62.05,11.59,Barhi,Cokelat Tua,Sedang,Tamr
+4.37,15.3,43.59,39.47,49.09,Zahidi,Cokelat Muda,Berat,Rutab
+3.81,12.52,89.27,17.88,77.81,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.09,6.18,67.83,16.57,79.52,Barhi,Kuning,Tidak Ada,Khalal
+4.26,11.98,2.99,67.7,27.16,Zahidi,Hitam,Ringan,Tamr
+4.05,11.62,89.3,20.69,79.81,Zahidi,Cokelat Muda,Tidak Ada,Khalal
+3.37,9.77,39.81,22.62,63.78,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.25,11.58,39.66,21.51,77.56,Medjool,Kuning,Ringan,Khalal
+3.53,9.73,10.93,71.7,14.25,Deglet Noor,Cokelat Muda,Ringan,Tamr
+3.93,10.31,21.46,42.14,43.01,Medjool,Cokelat Muda,Ringan,Rutab
+3.21,7.71,52.08,15.78,70.08,Ajwa,Kuning,Ringan,Khalal
+2.82,6.36,2.34,73.77,27.51,Medjool,Cokelat Tua,Tidak Ada,Tamr
+4.06,13.83,11.06,62.19,25.05,Deglet Noor,Hitam,Sedang,Tamr
+3.5,8.33,55.78,20.32,77.4,Deglet Noor,Kuning,Ringan,Khalal
+2.52,9.01,76.01,19.96,71.72,Barhi,Kuning,Ringan,Khalal
+4.09,13.87,17.38,49.5,42.35,Zahidi,Cokelat Tua,Ringan,Rutab
+2.34,5.48,87.96,14.22,78.76,Ajwa,Cokelat Tua,Tidak Ada,Khalal
+3.6,8.85,13.67,64.74,26.0,Ajwa,Cokelat Tua,Berat,Tamr
+3.6,8.19,68.6,21.66,72.85,Barhi,Cokelat Tua,Tidak Ada,Khalal
+2.76,8.06,76.56,19.59,62.62,Ajwa,Kuning,Tidak Ada,Khalal
+4.79,12.69,27.38,41.04,35.32,Zahidi,Cokelat Muda,Ringan,Rutab
+3.74,12.95,40.98,43.14,48.3,Zahidi,Cokelat Muda,Ringan,Rutab
+4.74,16.26,16.99,27.02,49.31,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+4.02,10.47,12.91,73.43,27.48,Zahidi,Hitam,Berat,Tamr
+3.96,8.32,35.92,42.1,51.23,Zahidi,Cokelat Muda,Ringan,Rutab
+1.8,3.81,13.5,71.2,21.99,Ajwa,Cokelat Tua,Sedang,Tamr
+3.62,11.72,54.59,18.1,78.48,Deglet Noor,Kuning,Ringan,Khalal
+3.2,6.51,85.24,21.75,76.38,Deglet Noor,Kuning,Ringan,Khalal
+3.1,11.02,33.76,29.84,47.38,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+5.54,18.14,42.83,19.25,73.6,Medjool,Kuning,Tidak Ada,Khalal
+4.45,14.23,84.33,19.84,67.65,Medjool,Kuning,Tidak Ada,Khalal
+2.35,6.12,40.25,46.86,38.76,Deglet Noor,Cokelat Muda,Sedang,Rutab
+3.25,11.6,27.21,30.7,33.25,Deglet Noor,Cokelat Muda,Ringan,Rutab
+2.49,8.54,26.68,30.11,33.38,Zahidi,Cokelat Tua,Tidak Ada,Rutab
+3.38,7.59,12.14,79.89,14.51,Deglet Noor,Cokelat Tua,Ringan,Tamr
+5.51,17.08,62.39,15.61,62.89,Medjool,Kuning,Tidak Ada,Khalal
+2.44,6.18,38.97,26.8,37.75,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+4.75,11.07,24.0,42.94,43.81,Medjool,Cokelat Muda,Tidak Ada,Rutab
+3.83,11.91,,66.98,13.57,Medjool,Cokelat Tua,Ringan,Tamr
+4.0,10.11,58.96,33.19,39.1,Ajwa,Cokelat Muda,Ringan,Rutab
+3.75,10.2,8.23,65.93,22.63,Ajwa,Cokelat Tua,Sedang,Tamr
+2.62,8.74,78.76,22.12,67.51,Barhi,Kuning,Tidak Ada,Khalal
+4.63,11.12,4.17,58.73,24.25,Zahidi,Hitam,Ringan,Tamr
+2.34,7.81,46.4,36.51,52.51,Barhi,Cokelat Muda,Tidak Ada,Rutab
+3.16,7.14,8.47,55.85,16.54,Medjool,Cokelat Tua,Sedang,Tamr
+2.08,5.47,57.04,22.23,76.41,Barhi,Kuning,Tidak Ada,Khalal
+5.1,13.22,39.04,45.57,44.72,Zahidi,Cokelat Muda,Sedang,Rutab
+4.26,13.17,3.65,63.4,13.96,Barhi,Hitam,Sedang,Tamr
+2.14,7.36,37.0,40.19,46.09,Ajwa,Cokelat Tua,Ringan,Rutab
+4.48,9.65,39.43,44.26,37.94,Zahidi,Cokelat Tua,Ringan,Rutab
+2.87,6.33,46.33,34.56,44.88,Deglet Noor,Kuning,Ringan,Rutab
+2.33,6.48,67.54,14.92,72.77,Barhi,Kuning,Tidak Ada,Khalal
+3.8,12.33,75.17,20.96,76.45,Medjool,Kuning,Tidak Ada,Khalal
+3.48,9.84,37.94,37.19,43.05,Barhi,Cokelat Muda,Ringan,Rutab
+4.58,13.74,4.79,70.96,18.04,Zahidi,Cokelat Tua,,Tamr
+3.25,9.77,70.31,24.63,73.38,Ajwa,Kuning,Ringan,Khalal
+2.33,5.94,86.86,18.46,78.02,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.61,8.06,46.74,16.3,63.28,Zahidi,Cokelat Muda,Ringan,Khalal
+4.62,14.57,9.87,61.1,17.08,Medjool,Cokelat Tua,Sedang,Tamr
+3.18,7.27,52.2,16.57,74.29,Medjool,Cokelat Muda,Ringan,Khalal
+2.36,5.03,2.01,64.06,23.54,Deglet Noor,Cokelat Tua,Ringan,Tamr
+3.58,10.48,65.25,19.7,67.73,Barhi,Cokelat Tua,Ringan,Khalal
+4.15,12.75,13.84,71.42,11.9,Medjool,Cokelat Tua,Ringan,Tamr
+4.65,14.35,44.74,16.17,70.1,Zahidi,Kuning,Ringan,Khalal
+2.04,6.61,5.16,61.11,21.66,Ajwa,Cokelat Tua,Tidak Ada,Tamr
+4.64,15.07,2.68,58.54,25.07,Medjool,Cokelat Tua,Tidak Ada,Tamr
+5.18,13.32,86.46,20.99,62.01,Medjool,Kuning,Tidak Ada,Khalal
+3.69,12.22,76.56,14.71,73.7,Medjool,Cokelat Muda,Tidak Ada,Khalal
+2.46,6.45,46.29,44.68,51.24,Zahidi,Cokelat Tua,Ringan,Rutab
+4.19,13.44,25.02,41.12,36.04,Medjool,Cokelat Muda,Tidak Ada,Rutab
+3.37,10.98,67.63,20.74,77.01,Ajwa,Kuning,Tidak Ada,Khalal
+3.03,8.49,40.89,41.99,48.09,Ajwa,Cokelat Tua,Tidak Ada,Rutab
+2.4,7.99,,21.11,64.13,Barhi,Kuning,Tidak Ada,Khalal
+3.71,10.44,3.49,77.16,27.53,Barhi,Hitam,Berat,Tamr
+3.06,9.96,6.37,70.38,23.3,Zahidi,Hitam,Ringan,Tamr
+4.75,10.2,29.67,52.22,44.35,Medjool,Cokelat Muda,,Rutab
+2.65,7.54,5.98,63.83,23.4,Barhi,Hitam,Ringan,Tamr
+4.96,11.13,18.65,39.23,55.61,Zahidi,Cokelat Muda,Ringan,Rutab
+3.37,10.28,86.47,22.63,70.15,Ajwa,Kuning,Tidak Ada,Khalal
+3.47,9.79,30.68,45.2,46.53,Zahidi,Cokelat Muda,Berat,Rutab
+2.88,9.09,10.4,72.19,21.45,Medjool,Hitam,Sedang,Tamr
+5.15,16.73,83.36,19.14,70.1,Medjool,Cokelat Muda,Tidak Ada,Khalal
+4.74,12.36,17.51,52.27,33.83,Zahidi,Cokelat Muda,,Rutab
+3.81,11.77,7.39,56.54,20.08,Deglet Noor,Hitam,Ringan,Tamr
+3.9,10.73,33.75,40.39,37.36,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+3.05,10.04,9.51,63.19,18.63,Barhi,Hitam,Ringan,Tamr
+3.19,8.86,38.47,49.39,39.51,Zahidi,Cokelat Tua,Ringan,Rutab
+3.05,8.09,43.24,32.75,38.36,Zahidi,Cokelat Muda,Ringan,Rutab
+2.85,9.69,52.01,19.11,68.83,Medjool,Kuning,Tidak Ada,Khalal
+3.79,10.04,8.89,62.48,23.7,Deglet Noor,Cokelat Tua,Ringan,Tamr
+4.93,17.33,20.35,31.4,33.56,Medjool,Cokelat Muda,Ringan,Rutab
+4.25,9.18,30.3,31.76,39.43,Medjool,Cokelat Tua,Tidak Ada,Rutab
+2.09,7.46,8.22,66.12,27.98,Ajwa,Cokelat Tua,Ringan,Tamr
+2.35,5.69,36.64,37.17,53.58,Ajwa,Cokelat Tua,Ringan,Rutab
+3.18,8.84,18.75,46.06,56.53,Ajwa,Cokelat Tua,Ringan,Rutab
+2.32,4.91,5.98,81.47,15.64,Barhi,Cokelat Tua,Ringan,Tamr
+3.82,10.24,52.97,15.83,73.46,Deglet Noor,Kuning,Ringan,Khalal
+3.88,9.2,,45.17,42.26,Medjool,Cokelat Muda,Tidak Ada,Rutab
+3.38,8.06,19.99,47.28,57.82,Ajwa,Cokelat Tua,Ringan,Rutab
+2.55,5.43,10.16,74.19,11.98,Medjool,Cokelat Tua,Tidak Ada,Tamr
+3.46,12.02,54.76,16.49,76.08,Barhi,Kuning,Ringan,Khalal
+2.54,8.12,31.03,47.11,47.72,Zahidi,Kuning,Ringan,Rutab
+5.41,19.15,32.37,37.3,41.23,Medjool,Cokelat Muda,Ringan,Rutab
+2.73,6.48,75.76,17.45,63.08,Medjool,Kuning,Ringan,Khalal
+4.66,10.42,10.31,66.01,16.51,Deglet Noor,Hitam,Ringan,Tamr
+2.25,7.09,4.7,75.76,16.46,Deglet Noor,Cokelat Muda,Ringan,Tamr
+3.72,12.13,10.54,63.53,10.69,Zahidi,Cokelat Tua,Ringan,Tamr
+2.74,7.03,83.49,16.07,78.45,Ajwa,Kuning,Tidak Ada,Khalal
+4.28,9.25,5.63,55.93,15.27,Barhi,Cokelat Tua,Ringan,Tamr
+4.4,14.83,81.06,20.51,79.01,Barhi,Kuning,Tidak Ada,Khalal
+3.8,12.36,3.46,62.68,20.02,Deglet Noor,Cokelat Tua,Tidak Ada,Tamr
+5.3,13.48,33.39,50.25,36.17,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+2.66,7.39,56.17,20.52,77.2,Barhi,Kuning,Tidak Ada,Khalal
+3.59,7.23,18.41,44.74,55.1,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+2.78,8.82,8.73,68.76,19.37,Zahidi,Cokelat Tua,Berat,Tamr
+4.77,12.61,6.75,66.75,25.29,Medjool,Hitam,Sedang,Tamr
+4.62,10.79,10.36,77.7,16.06,Medjool,Cokelat Tua,Berat,Tamr
+4.53,9.76,12.28,78.82,19.68,Deglet Noor,Cokelat Tua,Sedang,Tamr
+3.22,11.48,88.28,17.42,63.22,Barhi,Kuning,Tidak Ada,Khalal
+4.16,13.75,44.79,31.82,34.26,Medjool,Cokelat Muda,Ringan,Rutab
+2.64,5.83,7.19,67.15,20.1,Medjool,Cokelat Tua,Berat,Tamr
+3.46,10.09,,20.18,63.32,Deglet Noor,Cokelat Tua,Tidak Ada,Khalal
+4.14,8.76,20.26,59.81,11.8,Zahidi,Cokelat Tua,Sedang,Tamr
+4.59,14.84,36.14,19.24,78.67,Zahidi,Kuning,Tidak Ada,Khalal
+2.95,7.54,8.14,58.94,19.0,Barhi,Hitam,Ringan,Tamr
+2.27,7.22,7.75,74.02,22.75,Barhi,Cokelat Tua,Sedang,Tamr
+3.38,11.87,68.05,24.6,74.15,Zahidi,Kuning,Tidak Ada,Khalal
+4.86,10.32,50.52,15.31,63.86,Medjool,Kuning,Sedang,Khalal
+2.47,7.31,74.13,23.43,73.82,Deglet Noor,Kuning,Ringan,Khalal
+4.15,12.84,9.02,49.97,32.4,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+4.18,11.0,25.55,48.73,46.52,Barhi,Cokelat Muda,Ringan,Rutab
+4.57,12.62,12.22,31.63,55.91,Deglet Noor,Hitam,Sedang,Rutab
+2.35,4.88,43.28,31.01,40.25,Barhi,Cokelat Muda,Tidak Ada,Rutab
+4.57,12.23,4.24,57.75,18.22,Medjool,Cokelat Tua,Tidak Ada,Tamr
+4.33,13.96,40.49,33.63,52.83,Zahidi,Cokelat Tua,Tidak Ada,Rutab
+3.28,7.85,9.4,52.39,40.9,Medjool,Cokelat Muda,Ringan,Rutab
+2.28,6.41,37.76,17.3,68.15,Ajwa,Kuning,Tidak Ada,Khalal
+4.49,14.74,12.55,67.35,20.24,Medjool,Hitam,Berat,Tamr
+3.7,11.99,26.65,33.29,46.2,Zahidi,Cokelat Muda,Ringan,Rutab
+3.8,9.64,44.29,22.71,70.73,Barhi,Cokelat Muda,Tidak Ada,Khalal
+1.71,3.43,39.14,17.86,68.42,Ajwa,Kuning,Tidak Ada,Khalal
+3.44,10.59,38.47,26.14,50.28,Ajwa,Cokelat Muda,,Rutab
+2.68,6.15,11.18,74.22,19.44,Medjool,Hitam,Tidak Ada,Tamr
+3.3,9.09,32.63,38.97,55.48,Ajwa,Cokelat Tua,Ringan,Rutab
+2.58,9.01,9.21,77.51,12.76,Ajwa,Cokelat Tua,Sedang,Tamr
+5.63,15.79,59.63,22.65,78.48,Medjool,Kuning,Tidak Ada,Khalal
+3.85,9.78,78.94,16.78,74.13,Medjool,Cokelat Muda,Ringan,Khalal
+2.81,9.11,74.68,16.31,70.27,Barhi,Kuning,Ringan,Khalal
+2.01,4.43,67.55,17.08,75.16,Barhi,Kuning,Ringan,Khalal
+3.7,12.9,,38.13,51.4,Zahidi,Cokelat Muda,Ringan,Rutab
+5.14,11.56,24.03,48.24,39.26,Zahidi,Cokelat Muda,Ringan,Rutab
+4.5,13.32,9.94,76.93,24.06,Deglet Noor,Hitam,Ringan,Tamr
+3.95,9.29,61.51,18.07,70.76,Medjool,Kuning,Ringan,Khalal
+2.49,5.26,5.9,60.36,13.98,Zahidi,Cokelat Tua,Berat,Tamr
+3.89,11.54,82.18,22.96,75.43,Deglet Noor,Cokelat Muda,Berat,Khalal
+4.21,9.06,19.04,35.25,57.41,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+3.23,7.81,8.98,63.55,12.21,Deglet Noor,Cokelat Tua,Ringan,Tamr
+3.67,13.07,2.63,67.57,24.84,Ajwa,Cokelat Tua,Ringan,Tamr
+2.44,6.58,6.57,74.51,26.71,Zahidi,Hitam,Tidak Ada,Tamr
+3.29,9.92,58.31,19.62,64.92,Barhi,Kuning,Tidak Ada,Khalal
+3.55,10.46,83.35,17.66,76.12,Medjool,Kuning,Tidak Ada,Khalal
+3.35,9.53,45.57,18.81,72.68,Ajwa,Kuning,Tidak Ada,Khalal
+2.81,8.75,,70.79,22.32,Ajwa,Hitam,Sedang,Tamr
+3.11,7.59,19.76,51.82,47.12,Ajwa,Cokelat Muda,Ringan,Rutab
+3.99,11.41,30.28,40.5,33.25,Zahidi,Cokelat Muda,Ringan,Rutab
+4.45,13.85,29.38,45.1,41.11,Zahidi,Cokelat Muda,Ringan,Rutab
+3.77,7.74,64.5,22.09,67.07,Ajwa,Kuning,Ringan,Khalal
+3.97,13.9,4.85,70.69,20.71,Zahidi,Cokelat Muda,Ringan,Tamr
+4.64,16.66,84.52,15.22,76.96,Zahidi,Kuning,Tidak Ada,Khalal
+2.96,7.84,22.74,46.9,48.77,Barhi,Cokelat Muda,Ringan,Rutab
+2.3,5.66,9.11,54.46,10.05,Deglet Noor,Hitam,Berat,Tamr
+5.03,13.46,41.4,41.1,57.87,Medjool,Cokelat Muda,Ringan,Rutab
+4.25,11.17,84.34,14.33,75.43,Medjool,Kuning,Tidak Ada,Khalal
+3.78,12.04,64.43,14.51,76.53,Ajwa,Kuning,Tidak Ada,Khalal
+4.94,13.36,67.23,15.8,65.27,Medjool,Cokelat Muda,Tidak Ada,Khalal
+3.43,8.48,17.07,38.54,40.45,Deglet Noor,Cokelat Tua,Tidak Ada,Rutab
+3.36,9.75,88.39,21.15,65.62,Zahidi,Kuning,Tidak Ada,Khalal
+3.01,7.65,55.0,16.64,68.18,Deglet Noor,Cokelat Muda,Tidak Ada,Khalal
+2.84,8.66,7.19,65.6,16.0,Medjool,Cokelat Tua,Tidak Ada,Tamr
+3.97,10.04,73.44,16.09,78.82,Medjool,Kuning,Tidak Ada,Khalal
+2.46,5.62,2.99,77.18,14.97,Ajwa,Hitam,Ringan,Tamr
+3.24,8.71,3.39,71.01,13.98,Ajwa,Hitam,Berat,Tamr
+1.81,3.88,88.29,14.93,78.09,Ajwa,Kuning,Ringan,Khalal
+4.68,12.54,5.48,76.08,18.55,Deglet Noor,Cokelat Tua,Sedang,Tamr
+3.43,9.54,45.68,39.89,47.04,Ajwa,Cokelat Muda,Sedang,Rutab
+2.44,5.65,52.86,19.84,78.03,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.91,13.28,81.76,19.29,70.77,Medjool,Cokelat Muda,Tidak Ada,Khalal
+3.51,11.25,7.2,59.78,11.62,Medjool,Cokelat Tua,Ringan,Tamr
+4.0,9.65,82.56,23.56,63.67,Zahidi,Kuning,Ringan,Khalal
+2.21,5.67,44.75,22.81,64.73,Ajwa,Kuning,Tidak Ada,Khalal
+5.31,11.85,79.56,17.15,67.56,Medjool,Cokelat Muda,Tidak Ada,Khalal
+4.5,13.23,87.73,18.62,73.58,Medjool,Kuning,Ringan,Khalal
+2.47,8.46,40.8,49.32,39.0,Ajwa,Cokelat Muda,Ringan,Rutab
+3.31,9.41,71.44,20.48,62.81,Zahidi,Cokelat Muda,Tidak Ada,Khalal
+2.47,8.48,7.82,63.48,23.04,Deglet Noor,Cokelat Muda,Ringan,Tamr
+4.41,15.43,12.35,58.92,18.08,Medjool,Hitam,Berat,Tamr
+1.95,4.03,23.81,40.96,54.31,Barhi,Cokelat Muda,Ringan,Rutab
+3.37,8.26,9.85,81.12,16.14,Deglet Noor,Hitam,Sedang,Tamr
+4.97,13.45,59.43,15.29,68.42,Medjool,Kuning,Tidak Ada,Khalal
+3.27,7.6,61.83,17.91,75.62,Deglet Noor,Kuning,Ringan,Khalal
+3.12,7.81,42.46,48.15,57.72,Deglet Noor,Hitam,Tidak Ada,Rutab
+2.69,6.83,63.27,14.38,75.67,Barhi,Cokelat Muda,Ringan,Khalal
+2.37,5.48,20.61,43.03,43.21,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+3.43,7.28,6.72,64.96,16.91,Medjool,Cokelat Tua,Tidak Ada,Tamr
+3.1,7.99,7.76,63.12,22.98,Medjool,Cokelat Tua,Ringan,Tamr
+2.91,8.11,19.69,49.86,47.51,Zahidi,Cokelat Muda,Berat,Rutab
+2.45,8.5,74.17,23.34,74.3,Ajwa,Kuning,Tidak Ada,Khalal
+2.78,5.84,,34.88,57.31,Ajwa,Cokelat Tua,Sedang,Rutab
+3.55,9.06,81.41,21.92,65.95,Zahidi,Kuning,Tidak Ada,Khalal
+5.11,16.74,4.43,70.73,13.36,Zahidi,Hitam,Tidak Ada,Tamr
+4.56,11.0,38.84,37.09,35.94,Zahidi,Cokelat Tua,Ringan,Rutab
+2.06,6.49,28.37,43.79,57.38,Ajwa,Cokelat Muda,Ringan,Rutab
+3.01,7.15,50.07,31.96,33.79,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+3.5,7.28,29.95,49.29,49.75,Ajwa,Cokelat Muda,Sedang,Rutab
+3.17,8.01,78.36,20.31,64.73,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.49,8.95,45.78,37.74,44.82,Medjool,Cokelat Muda,Sedang,Rutab
+3.36,8.65,88.36,19.6,70.24,Barhi,Kuning,Tidak Ada,Khalal
+2.03,6.6,89.04,19.68,77.21,Deglet Noor,Kuning,Ringan,Khalal
+3.15,8.24,56.55,14.31,75.27,Zahidi,Kuning,Ringan,Khalal
+2.67,7.69,9.4,73.62,22.53,Deglet Noor,Hitam,Sedang,Tamr
+5.26,12.26,79.57,23.72,77.25,Zahidi,Kuning,Sedang,Khalal
+4.69,12.11,13.23,59.97,18.98,Medjool,Hitam,Berat,Tamr
+5.31,18.86,,36.47,32.97,Medjool,Cokelat Muda,Ringan,Rutab
+2.45,6.73,69.0,19.37,71.67,Ajwa,Kuning,Ringan,Khalal
+5.67,12.84,67.63,19.81,79.74,Medjool,Kuning,Tidak Ada,Khalal
+4.41,11.76,45.15,30.19,38.06,Medjool,Cokelat Tua,Tidak Ada,Rutab
+2.83,5.79,61.79,22.03,75.09,Barhi,Kuning,Tidak Ada,Khalal
+4.98,17.68,71.88,20.95,70.18,Zahidi,Kuning,Ringan,Khalal
+3.24,8.36,29.84,27.58,45.1,Medjool,Cokelat Muda,,Rutab
+3.61,7.5,35.48,48.78,41.24,Zahidi,Cokelat Tua,Tidak Ada,Rutab
+1.72,3.52,11.17,70.98,23.48,Ajwa,Hitam,Ringan,Tamr
+2.7,7.67,11.37,66.8,22.5,Zahidi,Hitam,Tidak Ada,Tamr
+3.3,9.03,46.27,19.58,75.77,Zahidi,Kuning,Ringan,Khalal
+2.85,7.6,71.55,23.83,64.48,Medjool,Kuning,Tidak Ada,Khalal
+2.65,5.65,25.63,42.48,41.29,Medjool,Cokelat Tua,Ringan,Rutab
+4.12,9.69,47.58,30.07,46.18,Medjool,Cokelat Muda,Ringan,Rutab
+5.61,18.35,62.29,15.15,62.46,Medjool,Kuning,Ringan,Khalal
+3.64,10.69,11.34,71.75,26.24,Barhi,Hitam,Sedang,Tamr
+3.47,11.13,4.63,77.22,24.69,Zahidi,Hitam,Ringan,Tamr
+3.44,9.22,82.39,19.57,73.25,Barhi,Kuning,Tidak Ada,Khalal
+4.34,14.48,40.16,40.5,55.16,Zahidi,Cokelat Tua,Ringan,Rutab
+4.4,11.22,4.09,80.58,19.32,Barhi,Hitam,Ringan,Tamr
+4.96,11.62,62.76,22.13,62.25,Medjool,Kuning,Ringan,Khalal
+6.0,12.62,33.58,43.92,38.65,Medjool,Cokelat Tua,Tidak Ada,Rutab
+3.22,8.45,25.92,35.07,43.96,Ajwa,Cokelat Muda,Ringan,Rutab
+4.29,9.94,2.08,79.41,13.36,Barhi,Hitam,Berat,Tamr
+3.61,12.21,52.38,19.21,79.8,Ajwa,Cokelat Tua,Ringan,Khalal
+4.13,11.8,38.07,33.43,47.26,Zahidi,Cokelat Muda,Sedang,Rutab
+4.64,15.46,20.61,42.67,51.11,Medjool,Cokelat Tua,Sedang,Rutab
+2.32,7.34,18.53,73.71,19.77,Ajwa,Hitam,Ringan,Tamr
+3.8,8.72,54.17,23.09,62.31,Zahidi,Kuning,Ringan,Khalal
+2.61,8.05,81.37,20.96,73.0,Barhi,Kuning,Tidak Ada,Khalal
+3.48,12.04,,17.06,71.98,Barhi,Kuning,Tidak Ada,Khalal
+1.85,6.41,45.85,49.13,43.26,Ajwa,Cokelat Muda,Ringan,Rutab
+3.11,8.34,64.4,15.34,69.74,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.6,7.05,73.05,19.41,64.94,Ajwa,Kuning,Tidak Ada,Khalal
+3.16,7.35,80.18,22.87,71.97,Medjool,Kuning,Tidak Ada,Khalal
+3.57,11.93,43.12,50.7,52.95,Ajwa,Cokelat Muda,Sedang,Rutab
+4.2,11.86,63.6,14.99,67.47,Deglet Noor,Cokelat Muda,Ringan,Khalal
+4.19,10.73,76.51,22.78,66.14,Deglet Noor,Kuning,Ringan,Khalal
+3.23,9.45,10.18,67.33,23.22,Deglet Noor,Hitam,Sedang,Tamr
+2.15,6.09,2.95,60.29,23.95,Deglet Noor,Cokelat Muda,Sedang,Tamr
+4.48,16.09,78.62,17.92,78.95,Deglet Noor,Kuning,Ringan,Khalal
+3.63,9.44,9.45,71.38,24.66,Deglet Noor,Cokelat Tua,Sedang,Tamr
+2.71,9.63,17.79,49.2,44.5,Deglet Noor,Cokelat Muda,Ringan,Rutab
+3.81,10.22,30.29,49.18,44.62,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+2.08,6.75,57.44,20.78,70.89,Ajwa,Kuning,Tidak Ada,Khalal
+2.68,6.43,6.74,60.66,16.77,Deglet Noor,Cokelat Tua,Ringan,Tamr
+4.27,11.61,88.42,19.58,71.6,Zahidi,Kuning,Tidak Ada,Khalal
+3.3,7.62,10.26,77.87,11.51,Ajwa,Cokelat Tua,Sedang,Tamr
+3.13,10.56,,52.26,33.39,Barhi,Cokelat Muda,Ringan,Rutab
+4.07,9.54,,73.45,21.27,Barhi,Hitam,Sedang,Tamr
+2.01,6.58,8.51,59.83,27.82,Ajwa,Hitam,Ringan,Tamr
+3.57,11.17,66.79,18.74,78.71,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.84,7.18,68.51,17.98,72.29,Deglet Noor,Kuning,Ringan,Khalal
+1.98,6.04,39.37,45.53,41.36,Ajwa,Kuning,Ringan,Rutab
+4.98,11.58,21.79,76.79,12.34,Medjool,Cokelat Tua,Berat,Tamr
+3.07,7.65,7.63,55.96,26.0,Barhi,Hitam,Ringan,Tamr
+2.21,7.69,18.33,32.07,40.42,Ajwa,Cokelat Tua,Sedang,Rutab
+3.37,11.05,54.08,29.37,49.58,Barhi,Cokelat Muda,Ringan,Rutab
+3.03,6.48,67.18,22.33,65.89,Deglet Noor,Kuning,Tidak Ada,Khalal
+4.16,11.31,26.56,29.61,57.04,Zahidi,Cokelat Tua,Ringan,Rutab
+2.05,6.13,54.94,17.88,67.91,Ajwa,Kuning,Ringan,Khalal
+3.04,10.73,31.97,42.27,46.0,Barhi,Cokelat Muda,Tidak Ada,Rutab
+3.36,11.5,25.06,36.52,33.89,Zahidi,Cokelat Tua,,Rutab
+2.33,6.51,7.93,66.76,21.04,Ajwa,Hitam,Ringan,Tamr
+4.01,13.29,55.76,52.59,54.34,Medjool,Cokelat Muda,Tidak Ada,Rutab
+2.89,8.69,69.31,22.17,67.07,Ajwa,Cokelat Muda,Tidak Ada,Khalal
+2.47,6.98,38.83,28.35,56.81,Zahidi,Cokelat Muda,Ringan,Rutab
+2.83,5.8,39.25,37.46,51.89,Ajwa,Cokelat Muda,Berat,Rutab
+4.82,9.91,89.49,16.9,62.93,Zahidi,Kuning,,Khalal
+1.62,4.24,43.58,18.27,73.42,Ajwa,Kuning,Sedang,Khalal
+3.76,10.15,3.58,69.01,25.34,Ajwa,Cokelat Tua,Ringan,Tamr
+2.96,10.18,39.25,36.75,42.51,Medjool,Kuning,Ringan,Rutab
+3.51,8.85,39.08,52.8,56.21,Medjool,Cokelat Muda,,Rutab
+2.16,5.88,9.33,76.49,27.49,Deglet Noor,Cokelat Tua,Ringan,Tamr
+3.91,9.21,60.51,21.48,72.44,Deglet Noor,Cokelat Muda,Tidak Ada,Khalal
+4.6,15.26,18.13,35.08,40.34,Barhi,Cokelat Muda,Ringan,Rutab
+2.85,8.84,10.26,64.23,20.36,Ajwa,Cokelat Tua,Ringan,Tamr
+2.68,6.38,5.42,69.71,14.36,Deglet Noor,Hitam,Ringan,Tamr
+5.43,17.74,34.6,32.67,33.3,Medjool,Cokelat Muda,Tidak Ada,Rutab
+2.71,5.93,48.04,22.81,67.35,Barhi,Kuning,Ringan,Khalal
+2.5,6.07,89.11,15.01,68.21,Ajwa,Kuning,Tidak Ada,Khalal
+2.53,5.52,52.15,21.49,72.42,Ajwa,Kuning,Tidak Ada,Khalal
+3.01,10.1,54.37,14.36,79.56,Ajwa,Cokelat Muda,Ringan,Khalal
+2.01,4.46,40.83,40.21,40.05,Ajwa,Cokelat Muda,Ringan,Rutab
+4.39,14.74,4.9,56.9,27.34,Zahidi,Hitam,Ringan,Tamr
+2.84,6.02,13.04,66.25,19.63,Deglet Noor,Hitam,Ringan,Tamr
+3.27,8.01,47.98,35.01,49.14,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+4.55,11.86,11.34,29.86,40.35,Zahidi,Cokelat Tua,Ringan,Rutab
+5.07,11.63,65.76,14.84,62.44,Medjool,Kuning,Tidak Ada,Khalal
+3.19,8.67,43.24,34.49,40.42,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+2.17,7.66,13.63,64.45,12.4,Deglet Noor,Hitam,Sedang,Tamr
+2.52,5.33,59.05,22.29,76.65,Barhi,Kuning,Tidak Ada,Khalal
+1.82,4.58,73.07,14.46,76.67,Ajwa,Kuning,Ringan,Khalal
+2.57,6.69,13.54,76.98,13.7,Zahidi,Cokelat Tua,Sedang,Tamr
+3.58,12.53,7.14,67.33,19.35,Barhi,Hitam,Ringan,Tamr
+3.23,9.47,46.73,40.33,32.61,Deglet Noor,Cokelat Muda,Ringan,Rutab
+3.43,7.02,2.77,74.71,13.88,Deglet Noor,Hitam,Ringan,Tamr
+3.85,13.52,39.47,43.97,53.49,Deglet Noor,Cokelat Muda,Ringan,Rutab
+5.63,16.16,20.12,73.26,23.45,Medjool,Cokelat Tua,Ringan,Tamr
+2.66,8.44,31.58,52.66,56.07,Medjool,Cokelat Muda,Ringan,Rutab
+1.84,4.83,21.06,67.75,20.46,Ajwa,Cokelat Tua,Sedang,Tamr
+3.81,11.41,16.32,39.79,56.71,Deglet Noor,Cokelat Muda,Ringan,Rutab
+3.31,8.94,77.54,15.06,79.67,Zahidi,Cokelat Muda,Tidak Ada,Khalal
+1.65,5.82,74.78,18.43,69.08,Ajwa,Kuning,Tidak Ada,Khalal
+3.3,11.23,8.58,76.99,22.44,Medjool,Hitam,Sedang,Tamr
+3.43,11.35,53.58,21.56,66.54,Deglet Noor,Kuning,Ringan,Khalal
+2.66,8.27,79.86,17.5,71.69,Medjool,Kuning,Tidak Ada,Khalal
+3.21,8.22,44.67,21.91,75.3,Medjool,Kuning,Tidak Ada,Khalal
+2.98,6.44,,22.46,77.09,Medjool,Cokelat Muda,Tidak Ada,Khalal
+3.78,11.74,45.56,39.48,44.04,Deglet Noor,Cokelat Muda,Ringan,Rutab
+2.34,6.22,9.23,65.61,13.75,Deglet Noor,Cokelat Tua,Ringan,Tamr
+2.67,9.21,2.86,73.37,19.61,Zahidi,Cokelat Tua,Ringan,Tamr
+3.82,7.85,13.41,56.95,11.38,Ajwa,Cokelat Tua,Tidak Ada,Tamr
+4.42,9.05,83.38,19.12,75.38,Barhi,Kuning,Ringan,Khalal
+2.75,6.85,20.13,63.83,19.46,Barhi,Hitam,Ringan,Tamr
+2.99,10.42,13.18,61.5,18.27,Zahidi,Hitam,Ringan,Tamr
+3.52,7.93,44.17,37.53,32.93,Zahidi,Cokelat Muda,Ringan,Rutab
+1.72,6.08,24.35,52.68,49.25,Ajwa,Cokelat Tua,Ringan,Rutab
+3.99,9.97,80.21,20.92,74.38,Medjool,Kuning,Tidak Ada,Khalal
+2.83,6.38,9.82,77.08,18.13,Barhi,Hitam,Ringan,Tamr
+3.54,10.7,2.61,61.55,16.86,Medjool,Cokelat Tua,Ringan,Tamr
+5.07,10.26,24.31,26.21,34.16,Medjool,Cokelat Tua,Ringan,Rutab
+4.37,15.56,30.04,54.04,38.63,Deglet Noor,Cokelat Muda,Ringan,Rutab
+4.09,8.38,35.76,39.42,56.22,Medjool,Cokelat Muda,Tidak Ada,Rutab
+4.82,12.47,12.58,70.08,13.5,Zahidi,Cokelat Tua,Sedang,Tamr
+2.01,6.28,80.84,18.04,76.66,Deglet Noor,Kuning,Sedang,Khalal
+3.57,10.24,37.67,52.62,45.81,Zahidi,Cokelat Tua,Ringan,Rutab
+2.69,8.69,57.38,42.21,36.62,Barhi,Cokelat Muda,Ringan,Rutab
+4.44,15.33,33.33,33.24,52.82,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+4.11,13.14,19.0,42.17,44.85,Zahidi,Cokelat Muda,Sedang,Rutab
+5.25,18.71,9.14,56.9,10.66,Zahidi,Cokelat Tua,Sedang,Tamr
+2.69,8.47,8.72,66.01,13.17,Zahidi,Cokelat Tua,Ringan,Tamr
+4.14,12.51,40.04,32.03,44.84,Medjool,Cokelat Muda,Ringan,Rutab
+3.11,6.89,57.45,22.09,64.92,Zahidi,Kuning,Tidak Ada,Khalal
+5.09,14.06,12.81,48.69,47.16,Zahidi,Cokelat Tua,Tidak Ada,Rutab
+3.67,9.56,2.1,70.81,24.72,Medjool,Hitam,Sedang,Tamr
+2.95,10.42,16.92,32.26,42.77,Barhi,Cokelat Muda,Sedang,Rutab
+2.87,7.59,64.43,21.28,75.72,Deglet Noor,Kuning,Ringan,Khalal
+2.75,5.91,16.62,28.98,57.65,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+3.94,8.17,25.91,49.72,34.28,Barhi,Cokelat Muda,Ringan,Rutab
+3.77,9.36,81.71,21.64,79.38,Barhi,Kuning,Ringan,Khalal
+2.24,5.82,41.25,22.63,68.83,Deglet Noor,Kuning,Tidak Ada,Khalal
+4.0,14.03,41.44,45.73,42.01,Zahidi,Cokelat Tua,Berat,Rutab
+3.48,8.51,30.85,41.29,39.32,Barhi,Cokelat Muda,Ringan,Rutab
+2.99,10.59,12.95,47.45,37.04,Medjool,Cokelat Muda,Ringan,Rutab
+2.87,10.32,31.86,26.07,55.11,Medjool,Cokelat Muda,Sedang,Rutab
+4.09,14.38,57.59,19.51,66.65,Medjool,Cokelat Tua,Tidak Ada,Khalal
+3.82,12.64,3.27,70.81,10.14,Barhi,Hitam,Sedang,Tamr
+2.25,6.58,38.42,26.17,34.69,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+3.65,10.89,51.28,34.88,45.37,Deglet Noor,Cokelat Tua,Ringan,Rutab
+3.25,8.61,30.38,49.65,50.37,Ajwa,Cokelat Muda,Sedang,Rutab
+2.57,6.76,9.05,72.82,22.07,Ajwa,Cokelat Tua,Ringan,Tamr
+4.56,11.5,66.77,22.93,68.42,Zahidi,Kuning,Tidak Ada,Khalal
+3.24,8.47,2.19,56.65,20.27,Medjool,Hitam,Ringan,Tamr
+2.4,7.03,7.28,55.66,14.55,Barhi,Cokelat Tua,Sedang,Tamr
+3.22,10.93,75.99,17.13,72.9,Medjool,Kuning,Tidak Ada,Khalal
+1.8,5.59,13.01,54.79,17.25,Ajwa,Cokelat Tua,Ringan,Tamr
+3.0,10.28,9.06,71.27,25.88,Medjool,Cokelat Tua,Ringan,Tamr
+3.19,10.08,58.62,22.57,70.0,Barhi,Kuning,Tidak Ada,Khalal
+3.85,8.53,8.62,71.84,22.24,Medjool,Cokelat Tua,Sedang,Tamr
+2.63,8.31,8.61,64.45,23.15,Ajwa,Cokelat Tua,Sedang,Tamr
+5.58,16.42,35.53,48.12,52.42,Medjool,Cokelat Muda,Sedang,Rutab
+2.79,7.73,8.89,72.33,20.2,Deglet Noor,Cokelat Tua,Sedang,Tamr
+5.2,15.65,74.18,18.55,62.81,Zahidi,Kuning,Tidak Ada,Khalal
+4.48,10.26,20.14,80.14,24.74,Deglet Noor,Cokelat Tua,Sedang,Tamr
+3.0,7.94,80.59,20.55,69.71,Barhi,Kuning,Tidak Ada,Khalal
+3.33,7.53,62.4,22.33,70.93,Zahidi,Cokelat Tua,Ringan,Khalal
+3.35,8.35,36.98,33.88,53.33,Barhi,Cokelat Muda,Ringan,Rutab
+3.32,9.45,,15.13,74.37,Medjool,Kuning,Tidak Ada,Khalal
+3.81,9.96,20.39,57.18,24.93,Medjool,Cokelat Tua,Sedang,Tamr
+2.8,9.23,27.78,26.52,39.32,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+2.94,6.62,39.73,27.56,52.21,Medjool,Cokelat Muda,Ringan,Rutab
+3.53,9.37,5.72,64.38,25.93,Medjool,Hitam,Sedang,Tamr
+1.85,4.98,82.26,22.74,69.4,Ajwa,Kuning,Tidak Ada,Khalal
+3.57,10.92,30.12,26.97,47.24,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+4.05,11.47,34.15,39.16,52.56,Barhi,Cokelat Muda,Ringan,Rutab
+2.7,7.39,75.53,21.63,65.94,Medjool,Kuning,Tidak Ada,Khalal
+3.25,9.6,8.26,41.87,55.94,Barhi,Cokelat Muda,,Rutab
+2.71,8.69,57.01,16.87,63.68,Deglet Noor,Kuning,Tidak Ada,Khalal
+4.62,14.77,88.22,18.65,72.3,Barhi,Kuning,Tidak Ada,Khalal
+3.18,10.73,17.55,37.2,44.57,Medjool,Cokelat Muda,Tidak Ada,Rutab
+2.12,6.21,84.8,16.79,78.34,Barhi,Kuning,Ringan,Khalal
+2.04,5.48,37.37,38.02,33.71,Barhi,Cokelat Muda,Sedang,Rutab
+4.35,13.67,21.25,45.24,33.54,Barhi,Cokelat Tua,Ringan,Rutab
+5.46,14.38,8.21,74.45,16.65,Medjool,Cokelat Tua,Tidak Ada,Tamr
+4.37,11.79,77.02,17.91,72.05,Zahidi,Cokelat Muda,Ringan,Khalal
+3.75,9.3,46.71,41.46,50.34,Deglet Noor,Cokelat Muda,,Rutab
+3.31,9.56,32.88,32.51,54.47,Barhi,Cokelat Muda,Tidak Ada,Rutab
+2.32,7.76,29.84,49.62,36.91,Zahidi,Cokelat Muda,Ringan,Rutab
+3.32,11.1,3.78,70.12,13.06,Deglet Noor,Hitam,Tidak Ada,Tamr
+3.46,9.0,87.89,21.93,73.38,Deglet Noor,Kuning,Ringan,Khalal
+2.25,5.9,9.16,81.54,24.96,Ajwa,Cokelat Tua,Sedang,Tamr
+4.72,14.51,36.56,49.4,48.83,Medjool,Cokelat Tua,Ringan,Rutab
+3.48,11.26,56.04,17.23,70.05,Zahidi,Kuning,Ringan,Khalal
+4.88,11.33,88.41,18.24,64.68,Zahidi,Cokelat Muda,Berat,Khalal
+3.58,8.72,33.57,52.4,35.42,Ajwa,Cokelat Muda,Sedang,Rutab
+3.61,12.8,16.77,44.66,55.16,Medjool,Cokelat Tua,Ringan,Rutab
+4.04,13.87,32.58,26.85,54.86,Barhi,Cokelat Tua,Ringan,Rutab
+3.94,11.28,16.72,47.99,49.68,Barhi,Cokelat Tua,Tidak Ada,Rutab
+4.38,12.16,12.33,33.32,34.23,Zahidi,Cokelat Tua,Ringan,Rutab
+3.58,9.81,3.83,62.46,17.17,Deglet Noor,Cokelat Tua,Ringan,Tamr
+3.65,11.65,79.4,19.53,71.16,Zahidi,Kuning,Tidak Ada,Khalal
+2.55,7.02,72.34,18.33,66.14,Deglet Noor,Kuning,Tidak Ada,Khalal
+4.35,10.46,34.45,30.35,34.48,Medjool,Cokelat Tua,Ringan,Rutab
+3.34,6.99,45.0,34.79,33.39,Ajwa,Cokelat Tua,Sedang,Rutab
+5.0,10.83,10.6,58.74,12.66,Zahidi,Hitam,Ringan,Tamr
+3.44,10.26,85.2,17.7,78.24,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.0,4.54,11.08,79.1,20.92,Deglet Noor,Cokelat Muda,Tidak Ada,Tamr
+3.34,7.49,37.11,35.52,49.21,Medjool,Cokelat Tua,Tidak Ada,Rutab
+2.72,7.27,11.03,57.7,22.17,Medjool,Hitam,Berat,Tamr
+4.11,12.85,11.05,61.66,17.1,Barhi,Hitam,Ringan,Tamr
+2.65,6.0,17.49,33.12,53.57,Zahidi,Cokelat Tua,Ringan,Rutab
+3.95,9.79,49.54,22.39,74.02,Barhi,Cokelat Muda,Tidak Ada,Khalal
+1.76,5.53,62.37,20.2,78.44,Ajwa,Kuning,Tidak Ada,Khalal
+2.51,5.83,80.33,19.92,70.88,Zahidi,Kuning,Ringan,Khalal
+4.0,9.25,8.03,74.11,14.36,Deglet Noor,Hitam,Berat,Tamr
+2.79,8.32,7.1,63.98,20.25,Ajwa,Cokelat Tua,Sedang,Tamr
+3.22,10.14,11.96,74.28,15.8,Ajwa,Hitam,Berat,Tamr
+3.15,9.27,39.09,51.11,45.39,Ajwa,Cokelat Muda,Ringan,Rutab
+4.39,8.79,5.89,78.54,23.09,Deglet Noor,Cokelat Tua,Ringan,Tamr
+2.89,7.18,53.93,21.03,78.8,Ajwa,Kuning,Tidak Ada,Khalal
+3.05,7.72,,22.25,71.31,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.6,9.89,12.34,74.29,20.58,Barhi,Cokelat Tua,Ringan,Tamr
+3.61,12.64,89.0,17.88,70.74,Deglet Noor,Cokelat Tua,Tidak Ada,Khalal
+2.74,7.72,,72.95,25.41,Barhi,Cokelat Tua,Ringan,Tamr
+3.83,10.09,26.14,34.06,57.0,Medjool,Cokelat Muda,Ringan,Rutab
+3.2,10.87,28.64,31.42,41.82,Zahidi,Cokelat Muda,Ringan,Rutab
+3.55,11.16,20.67,76.72,16.52,Deglet Noor,Cokelat Tua,Ringan,Tamr
+2.61,6.15,3.54,76.49,14.54,Barhi,Hitam,Sedang,Tamr
+1.74,3.53,6.68,59.46,17.78,Ajwa,Hitam,Sedang,Tamr
+4.21,10.57,21.66,46.33,43.71,Barhi,Cokelat Tua,Ringan,Rutab
+2.8,9.76,21.45,57.4,14.78,Ajwa,Cokelat Tua,Sedang,Tamr
+4.04,13.65,85.67,21.05,67.16,Deglet Noor,Cokelat Tua,Tidak Ada,Khalal
+1.67,5.36,31.09,33.43,56.64,Ajwa,Cokelat Tua,Ringan,Rutab
+2.94,7.97,48.65,22.63,76.28,Deglet Noor,Kuning,Sedang,Khalal
+2.7,8.67,52.55,14.97,62.73,Medjool,Kuning,Tidak Ada,Khalal
+3.39,10.93,71.54,18.85,73.54,Medjool,Kuning,Tidak Ada,Khalal
+2.92,9.03,,65.23,16.98,Barhi,Cokelat Tua,Tidak Ada,Tamr
+3.17,7.59,67.31,16.29,78.22,Deglet Noor,Cokelat Tua,Sedang,Khalal
+2.89,7.1,85.01,23.13,62.22,Ajwa,Kuning,Ringan,Khalal
+2.92,7.5,24.0,39.98,57.72,Ajwa,Cokelat Muda,Berat,Rutab
+5.95,15.38,2.52,55.83,27.06,Medjool,Cokelat Muda,Sedang,Tamr
+4.33,10.77,45.17,23.31,68.49,Medjool,Kuning,Tidak Ada,Khalal
+4.23,11.3,10.19,72.47,25.94,Medjool,Cokelat Tua,Ringan,Tamr
+2.75,7.33,9.55,70.59,22.09,Medjool,Cokelat Tua,Tidak Ada,Tamr
+4.4,15.61,46.71,29.32,36.34,Zahidi,Cokelat Muda,Ringan,Rutab
+2.14,5.48,2.92,74.49,26.43,Barhi,Hitam,Sedang,Tamr
+2.3,7.96,44.16,32.88,51.85,Deglet Noor,Cokelat Muda,Berat,Rutab
+3.59,7.75,10.73,71.91,14.23,Zahidi,Hitam,Sedang,Tamr
+4.98,10.91,19.82,58.32,10.63,Medjool,Cokelat Tua,Tidak Ada,Tamr
+3.3,10.96,12.04,70.28,16.59,Barhi,Cokelat Muda,Sedang,Tamr
+3.04,10.46,5.41,68.37,20.73,Deglet Noor,Cokelat Tua,Tidak Ada,Tamr
+3.07,6.96,,72.08,11.12,Medjool,Cokelat Tua,Ringan,Tamr
+5.52,15.57,37.53,32.59,36.32,Medjool,Cokelat Muda,Ringan,Rutab
+5.94,14.02,66.32,18.29,69.83,Medjool,Kuning,Ringan,Khalal
+4.11,8.23,38.98,32.97,39.74,Zahidi,Cokelat Muda,Ringan,Rutab
+3.39,9.99,11.67,58.47,17.81,Medjool,Cokelat Tua,Tidak Ada,Tamr
+3.89,13.85,26.6,41.95,55.57,Barhi,Cokelat Muda,Ringan,Rutab
+3.41,8.08,8.75,69.17,12.03,Ajwa,Hitam,Ringan,Tamr
+2.52,5.96,16.18,31.66,55.14,Barhi,Cokelat Muda,Tidak Ada,Rutab
+4.36,14.17,46.98,25.99,41.38,Zahidi,Cokelat Muda,Ringan,Rutab
+2.14,6.24,85.33,15.6,72.04,Barhi,Kuning,Ringan,Khalal
+3.61,8.47,19.01,69.82,26.46,Barhi,Cokelat Tua,Ringan,Tamr
+4.83,15.12,54.42,45.16,40.2,Medjool,Cokelat Tua,Tidak Ada,Rutab
+4.38,10.79,5.64,61.72,20.13,Barhi,Hitam,Tidak Ada,Tamr
+5.04,13.18,17.37,63.4,25.63,Zahidi,Cokelat Tua,Ringan,Tamr
+2.24,4.54,70.33,16.63,75.96,Ajwa,Kuning,Tidak Ada,Khalal
+3.52,10.65,34.81,45.33,41.08,Ajwa,Cokelat Tua,Ringan,Rutab
+2.54,6.3,2.37,62.95,15.69,Deglet Noor,Cokelat Tua,Ringan,Tamr
+2.19,7.82,4.84,61.54,14.8,Ajwa,Hitam,Tidak Ada,Tamr
+2.82,9.86,52.29,17.4,70.78,Barhi,Kuning,,Khalal
+4.71,14.89,83.08,18.73,77.13,Medjool,Kuning,Tidak Ada,Khalal
+2.37,7.69,84.21,18.54,64.98,Barhi,Kuning,Ringan,Khalal
+2.72,9.11,10.09,62.41,10.55,Deglet Noor,Cokelat Tua,Sedang,Tamr
+5.1,14.29,82.19,15.58,63.31,Medjool,Kuning,Tidak Ada,Khalal
+4.43,15.04,5.01,69.81,20.71,Deglet Noor,Cokelat Muda,Ringan,Tamr
+3.2,7.47,4.86,58.07,17.69,Medjool,Hitam,Berat,Tamr
+4.75,14.05,78.4,21.4,67.32,Zahidi,Kuning,Tidak Ada,Khalal
+3.87,11.64,10.82,77.32,13.63,Barhi,Cokelat Tua,,Tamr
+3.69,9.22,13.99,71.45,17.62,Zahidi,Cokelat Tua,Tidak Ada,Tamr
+2.55,5.87,8.05,63.71,26.83,Ajwa,Hitam,Sedang,Tamr
+2.33,6.38,54.92,22.53,66.4,Barhi,Kuning,Ringan,Khalal
+1.97,4.13,69.44,21.74,74.11,Deglet Noor,Cokelat Muda,Ringan,Khalal
+5.75,12.61,19.72,27.97,48.12,Medjool,Cokelat Muda,Tidak Ada,Rutab
+4.2,12.46,5.63,68.37,17.92,Deglet Noor,Hitam,Sedang,Tamr
+2.98,7.63,44.99,35.92,38.77,Deglet Noor,Cokelat Muda,Tidak Ada,Rutab
+3.07,9.74,,61.96,16.32,Medjool,Cokelat Tua,Ringan,Tamr
+4.66,13.52,37.43,42.22,46.55,Zahidi,Cokelat Muda,Ringan,Rutab
+3.36,7.59,45.3,22.08,65.87,Zahidi,Kuning,Tidak Ada,Khalal
+4.76,9.79,6.83,60.31,15.81,Zahidi,Hitam,Sedang,Tamr
+2.36,7.56,73.73,17.51,75.57,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.48,9.52,84.0,22.96,73.81,Barhi,Kuning,Sedang,Khalal
+3.64,7.39,74.29,19.75,62.13,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.04,7.01,47.44,30.52,55.55,Barhi,Cokelat Muda,Sedang,Rutab
+2.45,8.68,19.18,71.78,13.97,Zahidi,Hitam,Ringan,Tamr
+3.57,12.4,2.92,73.48,19.1,Ajwa,Cokelat Tua,Sedang,Tamr
+2.79,8.22,39.01,41.18,40.61,Zahidi,Cokelat Muda,Ringan,Rutab
+3.32,9.79,38.66,29.4,53.06,Zahidi,Cokelat Muda,Ringan,Rutab
+4.3,10.92,54.11,19.43,78.82,Barhi,Cokelat Muda,Ringan,Khalal
+4.1,13.27,12.45,68.23,11.68,Zahidi,Cokelat Tua,Sedang,Tamr
+3.34,10.19,5.69,73.11,25.31,Deglet Noor,Cokelat Tua,Ringan,Tamr
+2.92,10.25,81.79,17.82,71.89,Deglet Noor,Kuning,Tidak Ada,Khalal
+4.05,12.29,54.6,15.42,67.9,Deglet Noor,Kuning,Tidak Ada,Khalal
+4.76,11.6,36.05,45.95,44.47,Zahidi,Hitam,Ringan,Rutab
+3.84,13.17,3.76,58.66,12.51,Ajwa,Cokelat Tua,Ringan,Tamr
+1.81,4.71,37.25,28.89,33.52,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+2.52,5.96,,16.85,66.03,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.82,6.63,40.17,21.73,67.12,Barhi,Kuning,Ringan,Khalal
+5.4,11.64,12.27,77.87,24.71,Medjool,Cokelat Tua,Berat,Tamr
+4.07,9.7,6.88,80.53,27.87,Medjool,Cokelat Muda,Tidak Ada,Tamr
+3.82,7.87,27.75,29.86,51.4,Ajwa,Cokelat Muda,Ringan,Rutab
+2.75,9.3,66.91,15.97,63.84,Ajwa,Cokelat Muda,Ringan,Khalal
+3.85,13.87,40.08,44.19,54.26,Deglet Noor,Cokelat Muda,Sedang,Rutab
+3.28,8.21,41.36,45.7,33.78,Barhi,Cokelat Tua,Ringan,Rutab
+3.64,10.06,72.23,17.73,77.09,Zahidi,Kuning,Ringan,Khalal
+2.93,7.28,28.81,51.59,35.4,Ajwa,Cokelat Muda,Sedang,Rutab
+5.16,17.42,69.52,18.25,79.09,Zahidi,Kuning,Ringan,Khalal
+4.82,14.47,80.51,19.99,68.32,Medjool,Kuning,Ringan,Khalal
+3.31,9.16,,61.41,18.05,Zahidi,Cokelat Tua,Berat,Tamr
+3.14,9.89,88.37,19.18,78.16,Deglet Noor,Kuning,Tidak Ada,Khalal
+4.0,11.33,83.25,22.47,63.28,Medjool,Kuning,Tidak Ada,Khalal
+4.45,12.79,5.08,79.51,23.85,Deglet Noor,Hitam,Ringan,Tamr
+3.63,9.92,68.85,20.4,76.52,Deglet Noor,Cokelat Tua,Tidak Ada,Khalal
+4.99,16.85,44.59,29.51,57.37,Medjool,Cokelat Tua,Sedang,Rutab
+3.87,7.81,69.1,14.64,71.86,Medjool,Kuning,Tidak Ada,Khalal
+2.35,4.94,11.66,71.57,12.63,Zahidi,Cokelat Tua,Berat,Tamr
+2.64,9.03,10.28,71.11,26.06,Zahidi,Cokelat Tua,Sedang,Tamr
+4.1,12.01,13.84,64.61,16.69,Barhi,Cokelat Tua,Tidak Ada,Tamr
+3.76,8.11,78.84,15.67,69.26,Ajwa,Kuning,Tidak Ada,Khalal
+2.31,6.87,6.48,72.79,27.21,Barhi,Cokelat Tua,Sedang,Tamr
+5.26,18.36,55.73,26.27,42.32,Zahidi,Cokelat Muda,,Rutab
+3.9,10.18,65.97,19.25,67.98,Barhi,Kuning,Tidak Ada,Khalal
+3.67,11.4,23.03,47.88,52.38,Barhi,Cokelat Tua,Sedang,Rutab
+4.73,10.84,63.56,18.67,67.24,Medjool,Kuning,Tidak Ada,Khalal
+4.04,13.09,56.97,19.85,66.25,Barhi,Kuning,Tidak Ada,Khalal
+2.9,10.39,44.21,45.51,42.83,Zahidi,Cokelat Muda,Ringan,Rutab
+2.38,7.85,6.19,57.07,15.6,Zahidi,Hitam,Ringan,Tamr
+2.97,6.37,29.77,52.35,36.9,Zahidi,Cokelat Muda,Tidak Ada,Rutab
+1.63,5.22,2.11,66.44,27.69,Ajwa,Hitam,Ringan,Tamr
+3.29,11.14,7.01,71.04,16.87,Medjool,Hitam,,Tamr
+3.97,8.87,3.72,57.28,26.24,Medjool,Hitam,Sedang,Tamr
+4.2,9.62,60.83,24.86,76.0,Deglet Noor,Kuning,Ringan,Khalal
+3.81,13.34,2.53,55.81,18.41,Zahidi,Cokelat Tua,Tidak Ada,Tamr
+2.76,8.98,10.23,70.58,20.14,Medjool,Cokelat Tua,Ringan,Tamr
+2.25,8.08,19.31,28.97,40.52,Zahidi,Cokelat Muda,,Rutab
+4.78,15.95,5.63,72.97,10.39,Medjool,Cokelat Tua,Sedang,Tamr
+3.44,12.38,7.22,77.35,24.5,Deglet Noor,Cokelat Tua,Ringan,Tamr
+4.15,14.54,13.05,60.01,21.42,Zahidi,Hitam,Ringan,Tamr
+3.32,9.64,68.81,22.01,74.43,Zahidi,Kuning,Tidak Ada,Khalal
+3.09,7.83,30.37,38.65,42.79,Medjool,Cokelat Muda,Sedang,Rutab
+3.18,8.19,34.47,28.52,57.81,Zahidi,Cokelat Muda,Sedang,Rutab
+3.76,8.96,21.16,58.9,25.51,Barhi,Cokelat Tua,Tidak Ada,Tamr
+1.83,5.46,33.58,33.93,35.56,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+2.84,7.11,19.69,46.11,54.22,Barhi,Kuning,Tidak Ada,Rutab
+3.07,7.84,8.22,52.32,55.19,Zahidi,Cokelat Muda,Ringan,Rutab
+3.94,11.05,13.42,69.04,20.35,Zahidi,Cokelat Tua,Ringan,Tamr
+2.86,6.19,6.28,56.98,22.43,Ajwa,Cokelat Tua,Sedang,Tamr
+2.47,5.1,2.76,78.49,11.71,Barhi,Cokelat Tua,Sedang,Tamr
+2.2,5.14,8.61,62.25,13.74,Ajwa,Cokelat Tua,Tidak Ada,Tamr
+3.82,11.47,3.83,71.37,16.42,Deglet Noor,Cokelat Tua,Ringan,Tamr
+4.64,10.62,33.68,31.48,57.75,Medjool,Cokelat Muda,Sedang,Rutab
+4.71,11.27,19.5,29.68,39.06,Zahidi,Cokelat Muda,Berat,Rutab
+3.98,9.71,7.68,75.07,21.69,Medjool,Cokelat Tua,Ringan,Tamr
+3.75,11.54,14.06,30.87,54.11,Deglet Noor,Cokelat Muda,Ringan,Rutab
+4.39,9.38,36.8,51.85,32.08,Deglet Noor,Cokelat Tua,Sedang,Rutab
+3.94,10.9,31.08,31.14,38.62,Barhi,Cokelat Muda,Ringan,Rutab
+2.44,7.93,13.15,59.34,25.07,Ajwa,Hitam,Tidak Ada,Tamr
+2.75,5.71,6.86,64.47,16.9,Ajwa,Hitam,Ringan,Tamr
+4.74,13.91,,70.56,16.99,Medjool,Cokelat Tua,Sedang,Tamr
+3.09,7.29,22.78,32.93,33.73,Ajwa,Kuning,Sedang,Rutab
+2.88,8.34,9.92,72.38,24.23,Zahidi,Cokelat Tua,Sedang,Tamr
+3.35,10.48,23.8,42.55,55.06,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+2.47,5.91,6.74,75.61,15.68,Ajwa,Hitam,Tidak Ada,Tamr
+2.72,8.78,31.79,36.73,38.99,Barhi,Cokelat Muda,Ringan,Rutab
+5.53,17.46,7.02,58.44,19.43,Medjool,Cokelat Tua,Sedang,Tamr
+4.88,10.42,76.44,21.15,66.79,Zahidi,Kuning,Ringan,Khalal
+5.16,18.02,55.9,21.45,63.22,Zahidi,Kuning,Tidak Ada,Khalal
+2.95,9.37,8.18,71.44,21.07,Zahidi,Hitam,,Tamr
+3.28,8.37,42.75,43.64,38.47,Ajwa,Cokelat Muda,Ringan,Rutab
+3.38,9.23,13.26,78.53,11.97,Ajwa,Hitam,,Tamr
+4.71,15.14,9.08,42.66,40.8,Medjool,Cokelat Muda,Tidak Ada,Rutab
+2.95,6.59,41.55,39.35,52.36,Barhi,Cokelat Muda,Ringan,Rutab
+2.65,6.23,17.96,38.18,45.17,Ajwa,Cokelat Muda,Ringan,Rutab
+4.67,16.58,13.95,75.74,19.0,Zahidi,Hitam,Tidak Ada,Tamr
+1.95,4.77,40.59,19.72,73.38,Ajwa,Kuning,Tidak Ada,Khalal
+3.81,12.58,66.52,17.13,66.27,Medjool,Kuning,Tidak Ada,Khalal
+3.33,7.57,24.37,37.82,52.24,Deglet Noor,Cokelat Muda,Sedang,Rutab
+2.29,6.15,8.9,44.78,45.16,Barhi,Cokelat Tua,Sedang,Rutab
+5.76,15.41,65.0,19.38,70.8,Medjool,Cokelat Muda,Tidak Ada,Khalal
+3.13,8.08,30.86,31.33,41.29,Deglet Noor,Cokelat Tua,Tidak Ada,Rutab
+3.54,9.69,9.71,79.27,20.23,Barhi,Hitam,Ringan,Tamr
+2.39,7.16,19.65,75.19,18.29,Barhi,Hitam,Tidak Ada,Tamr
+2.36,8.45,7.46,64.98,13.14,Ajwa,Hitam,Ringan,Tamr
+3.0,8.69,46.76,33.77,39.6,Zahidi,Cokelat Muda,Ringan,Rutab
+2.52,8.93,22.06,28.49,50.97,Ajwa,Cokelat Muda,Ringan,Rutab
+3.8,8.72,41.35,27.93,44.59,Barhi,Cokelat Muda,,Rutab
+2.76,5.75,58.13,26.87,49.13,Ajwa,Cokelat Tua,Ringan,Rutab
+2.17,6.26,35.48,44.85,49.96,Ajwa,Cokelat Muda,Ringan,Rutab
+4.62,11.26,88.13,19.2,78.99,Zahidi,Kuning,Tidak Ada,Khalal
+5.47,13.12,37.98,31.01,55.78,Medjool,Cokelat Tua,Ringan,Rutab
+3.77,8.66,64.48,15.39,66.48,Ajwa,Kuning,Tidak Ada,Khalal
+4.51,10.16,27.33,36.68,49.31,Medjool,Cokelat Muda,Ringan,Rutab
+2.07,6.03,10.18,70.65,18.05,Ajwa,Cokelat Tua,Ringan,Tamr
+5.41,11.06,5.16,74.18,16.36,Medjool,Cokelat Tua,Ringan,Tamr
+3.19,7.29,,45.09,47.78,Medjool,Cokelat Tua,Sedang,Rutab
+2.63,6.57,42.24,38.11,39.42,Barhi,Cokelat Muda,Sedang,Rutab
+3.48,7.17,80.34,15.62,74.25,Barhi,Kuning,Sedang,Khalal
+5.36,15.13,,24.97,77.33,Medjool,Cokelat Muda,Tidak Ada,Khalal
+2.39,8.4,3.21,80.74,14.87,Ajwa,Cokelat Tua,Ringan,Tamr
+1.72,5.68,78.02,21.63,76.81,Ajwa,Kuning,Tidak Ada,Khalal
+2.11,5.19,4.8,57.85,19.71,Barhi,Cokelat Tua,Sedang,Tamr
+3.38,7.25,42.67,16.05,73.2,Ajwa,Kuning,Tidak Ada,Khalal
+3.55,9.71,53.26,18.88,63.14,Medjool,Kuning,Tidak Ada,Khalal
+6.06,12.67,67.91,21.06,72.34,Medjool,Kuning,Ringan,Khalal
+3.19,8.24,87.65,17.16,74.61,Barhi,Cokelat Muda,Tidak Ada,Khalal
+3.75,8.38,87.65,22.09,73.26,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.96,13.62,37.57,28.34,47.71,Deglet Noor,Cokelat Muda,Ringan,Rutab
+4.43,9.02,12.3,64.19,22.95,Medjool,Hitam,Ringan,Tamr
+2.12,4.42,3.45,68.42,24.33,Ajwa,Hitam,Ringan,Tamr
+3.88,9.97,21.86,35.14,54.36,Barhi,Cokelat Muda,Ringan,Rutab
+3.12,9.05,8.3,58.74,22.43,Zahidi,Hitam,Tidak Ada,Tamr
+3.79,7.95,3.3,70.96,10.72,Deglet Noor,Cokelat Tua,Ringan,Tamr
+2.31,7.31,23.03,48.51,46.22,Deglet Noor,Cokelat Muda,Ringan,Rutab
+5.81,15.1,37.56,23.98,78.39,Medjool,Kuning,Tidak Ada,Khalal
+2.97,10.32,85.34,20.75,76.71,Ajwa,Kuning,Tidak Ada,Khalal
+2.82,7.47,4.04,76.62,25.45,Barhi,Hitam,,Tamr
+2.45,6.59,19.73,79.64,14.26,Zahidi,Hitam,Berat,Tamr
+2.31,5.47,56.7,20.83,75.23,Ajwa,Kuning,Tidak Ada,Khalal
+3.0,9.92,86.01,21.4,64.47,Barhi,Kuning,Ringan,Khalal
+3.03,8.24,87.32,17.28,75.14,Deglet Noor,Kuning,Tidak Ada,Khalal
+1.79,4.82,32.1,34.05,50.47,Ajwa,Cokelat Tua,Ringan,Rutab
+3.55,8.89,76.5,20.76,65.59,Zahidi,Kuning,Tidak Ada,Khalal
+3.31,11.9,9.71,46.54,53.09,Zahidi,Hitam,Ringan,Rutab
+3.5,9.98,18.46,66.42,25.7,Barhi,Hitam,Sedang,Tamr
+4.75,11.97,16.81,32.0,53.7,Medjool,Cokelat Muda,Sedang,Rutab
+4.41,11.14,63.62,21.62,74.28,Deglet Noor,Kuning,Ringan,Khalal
+4.1,10.6,40.19,29.94,40.17,Barhi,Cokelat Muda,Tidak Ada,Rutab
+3.71,7.61,59.77,18.41,73.07,Medjool,Kuning,,Khalal
+3.79,8.54,2.62,70.64,11.53,Medjool,Hitam,Ringan,Tamr
+3.34,9.26,,66.22,20.88,Deglet Noor,Cokelat Tua,Tidak Ada,Tamr
+2.78,5.68,79.94,19.66,75.35,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.45,8.73,3.64,60.84,22.64,Deglet Noor,Cokelat Tua,Tidak Ada,Tamr
+3.62,10.85,42.48,27.32,39.99,Zahidi,Cokelat Tua,Sedang,Rutab
+3.38,9.06,72.83,17.36,74.19,Ajwa,Kuning,Tidak Ada,Khalal
+2.37,8.29,43.79,44.89,48.25,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+3.77,12.73,74.37,17.13,65.66,Zahidi,Kuning,Tidak Ada,Khalal
+2.45,5.12,60.56,18.7,78.61,Ajwa,Kuning,Tidak Ada,Khalal
+3.75,13.1,27.67,32.85,45.38,Medjool,Cokelat Muda,Sedang,Rutab
+3.53,7.19,65.6,18.13,64.49,Zahidi,Cokelat Muda,Ringan,Khalal
+2.58,8.48,32.33,33.8,44.5,Barhi,Cokelat Muda,Ringan,Rutab
+1.83,5.1,2.93,64.27,17.55,Ajwa,Hitam,Ringan,Tamr
+3.79,12.5,24.3,38.75,54.45,Zahidi,Hitam,Tidak Ada,Rutab
+3.58,10.62,3.57,58.83,18.83,Ajwa,Cokelat Tua,Ringan,Tamr
+3.33,6.91,4.42,71.2,18.57,Deglet Noor,Hitam,Ringan,Tamr
+1.84,4.18,2.65,78.38,16.72,Ajwa,Cokelat Tua,Ringan,Tamr
+3.57,11.37,8.49,68.02,20.1,Barhi,Cokelat Tua,Sedang,Tamr
+3.72,13.07,13.45,73.47,13.39,Barhi,Cokelat Tua,Ringan,Tamr
+2.3,7.67,80.14,21.25,75.84,Deglet Noor,Kuning,Ringan,Khalal
+3.18,7.1,80.94,15.64,63.51,Deglet Noor,Kuning,Ringan,Khalal
+2.4,5.85,41.63,42.98,52.88,Deglet Noor,Cokelat Muda,Ringan,Rutab
+2.65,8.74,27.58,44.21,39.01,Medjool,Cokelat Tua,Ringan,Rutab
+4.25,13.52,5.58,63.22,11.97,Medjool,Hitam,Ringan,Tamr
+2.63,9.0,4.79,58.36,16.03,Barhi,Hitam,Ringan,Tamr
+2.39,8.22,49.24,19.38,78.32,Zahidi,Kuning,Tidak Ada,Khalal
+3.86,12.27,10.72,76.63,13.01,Deglet Noor,Cokelat Tua,Sedang,Tamr
+2.36,6.29,42.63,52.88,36.67,Deglet Noor,Cokelat Muda,Ringan,Rutab
+1.97,5.06,39.92,48.78,56.95,Barhi,Cokelat Muda,,Rutab
+2.13,7.14,9.81,64.48,13.83,Barhi,Cokelat Tua,Ringan,Tamr
+2.91,9.69,47.59,41.6,45.29,Barhi,Cokelat Muda,Ringan,Rutab
+2.14,4.31,78.74,18.57,66.23,Deglet Noor,Kuning,Tidak Ada,Khalal
+2.59,6.53,60.37,23.14,68.28,Barhi,Cokelat Muda,Tidak Ada,Khalal
+2.76,8.6,64.33,15.75,77.43,Deglet Noor,Kuning,Tidak Ada,Khalal
+3.37,8.55,12.89,50.05,35.64,Ajwa,Kuning,Tidak Ada,Rutab
+2.26,4.67,84.86,15.95,70.58,Deglet Noor,Kuning,Tidak Ada,Khalal
+1.71,5.24,7.15,75.7,23.04,Ajwa,Cokelat Tua,Tidak Ada,Tamr
+3.33,7.54,87.94,21.24,70.32,Medjool,Kuning,Tidak Ada,Khalal
+5.47,18.39,47.13,46.41,42.25,Medjool,Cokelat Muda,Berat,Rutab
+2.03,6.8,39.13,21.57,68.46,Ajwa,Kuning,Tidak Ada,Khalal
+3.66,7.92,39.81,33.96,44.26,Medjool,Cokelat Muda,Tidak Ada,Rutab
+2.57,9.08,8.94,63.91,18.24,Ajwa,Cokelat Tua,Tidak Ada,Tamr
+3.51,7.84,45.35,47.61,39.46,Medjool,Cokelat Muda,Berat,Rutab
+4.99,13.2,10.55,73.63,18.49,Medjool,Hitam,Tidak Ada,Tamr
+2.7,9.43,34.55,51.8,40.99,Deglet Noor,Kuning,Tidak Ada,Rutab
+4.21,12.52,6.39,72.34,27.91,Barhi,Hitam,Ringan,Tamr
+3.21,7.32,25.13,46.85,49.2,Ajwa,Cokelat Muda,Sedang,Rutab
+2.66,7.28,31.38,49.03,49.99,Ajwa,Cokelat Muda,,Rutab
+2.58,8.89,67.36,21.41,69.43,Zahidi,Kuning,Ringan,Khalal
+2.74,8.42,30.83,32.65,39.13,Deglet Noor,Cokelat Muda,Ringan,Rutab
+3.91,9.64,16.19,27.78,55.75,Zahidi,Cokelat Muda,Ringan,Rutab
+3.41,8.16,39.83,30.94,43.98,Zahidi,Cokelat Muda,Ringan,Rutab
+3.2,10.66,2.23,82.81,15.05,Barhi,Cokelat Tua,Ringan,Tamr
+2.73,9.8,70.25,18.96,78.5,Medjool,Kuning,Ringan,Khalal
+4.87,15.1,31.05,53.26,42.2,Zahidi,Cokelat Muda,Sedang,Rutab
+5.81,15.75,37.39,25.91,46.07,Medjool,Kuning,Sedang,Rutab
+5.25,15.84,61.2,15.18,65.59,Zahidi,Kuning,Tidak Ada,Khalal
+3.65,9.75,61.74,15.59,62.09,Barhi,Kuning,Tidak Ada,Khalal
+3.91,10.33,10.67,79.46,13.87,Barhi,Hitam,Berat,Tamr
+4.41,11.98,67.41,17.92,67.31,Medjool,Kuning,Tidak Ada,Khalal
+4.02,14.41,21.7,77.95,17.17,Barhi,Cokelat Tua,Ringan,Tamr
+1.94,4.01,67.63,14.59,68.49,Deglet Noor,Kuning,Tidak Ada,Khalal
+5.21,13.74,26.62,49.05,56.36,Medjool,Cokelat Muda,Ringan,Rutab
+1.74,5.73,4.71,59.41,18.54,Ajwa,Cokelat Tua,Tidak Ada,Tamr
+3.61,10.34,59.03,15.79,66.03,Ajwa,Kuning,Sedang,Khalal
+3.5,11.09,45.69,38.3,32.37,Ajwa,Cokelat Muda,Tidak Ada,Rutab
+2.45,6.58,18.0,76.77,22.88,Barhi,Cokelat Muda,Berat,Tamr
+2.29,5.81,71.23,21.12,79.96,Ajwa,Kuning,,Khalal
+3.56,10.17,28.13,43.38,55.17,Ajwa,Cokelat Tua,Ringan,Rutab
+2.91,7.67,7.09,63.28,27.74,Deglet Noor,Cokelat Tua,Sedang,Tamr
+2.11,6.21,77.85,19.86,65.43,Barhi,Kuning,Tidak Ada,Khalal
+2.41,8.54,,27.09,46.74,Barhi,Cokelat Tua,Tidak Ada,Rutab
+4.56,9.67,,64.09,16.53,Barhi,Cokelat Tua,Sedang,Tamr
+1.9,6.15,12.39,71.09,18.68,Deglet Noor,Cokelat Tua,Ringan,Tamr
+4.71,16.87,42.02,21.95,66.15,Deglet Noor,Kuning,Tidak Ada,Khalal
+5.19,11.07,2.48,63.78,22.38,Zahidi,Cokelat Tua,Sedang,Tamr
+4.77,14.06,67.63,14.36,73.21,Medjool,Kuning,Tidak Ada,Khalal
+2.77,7.2,9.58,64.02,12.6,Zahidi,Cokelat Tua,Ringan,Tamr
+5.86,12.73,52.64,15.69,76.75,Medjool,Kuning,Tidak Ada,Khalal
+3.18,11.19,84.19,22.83,63.96,Deglet Noor,Kuning,Tidak Ada,Khalal
+1.79,4.59,12.8,63.67,24.01,Ajwa,Hitam,Tidak Ada,Tamr
+3.16,11.34,,75.29,27.82,Barhi,Cokelat Tua,Tidak Ada,Tamr
+3.86,11.6,2.88,61.96,11.4,Medjool,Hitam,Tidak Ada,Tamr
+3.95,9.52,9.33,62.05,11.53,Deglet Noor,Hitam,Ringan,Tamr
+2.9,6.69,44.25,53.48,44.43,Medjool,Cokelat Muda,Tidak Ada,Rutab
+4.63,14.81,20.97,61.22,26.01,Medjool,Cokelat Tua,Sedang,Tamr
+2.01,4.25,18.87,63.69,15.17,Deglet Noor,Cokelat Tua,Ringan,Tamr
